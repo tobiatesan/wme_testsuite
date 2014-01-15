@@ -1,0 +1,33 @@
+#include "scripts\base.inc"
+
+
+////////////////////////////////////////////////////////////////////////////////
+on "LookAt"
+{
+}
+
+
+////////////////////////////////////////////////////////////////////////////////
+on "Take"
+{
+}
+
+
+////////////////////////////////////////////////////////////////////////////////
+on "Talk"
+{
+}
+
+
+////////////////////////////////////////////////////////////////////////////////
+on "LeftClick"
+{
+  var sprite = Scene.GetNode("a");
+  sprite.AlphaColor = MakeRGBA(170, 170, 170, 170);
+  sprite = Scene.GetNode("b");
+  sprite.AlphaColor = MakeRGBA(170, 170, 170, 170);
+  sprite = Scene.GetNode("c");
+    sprite.AlphaColor = MakeRGBA(170, 170, 170, 170);
+  sprite = Scene.GetNode("d");
+    sprite.AlphaColor = MakeRGBA(170, 170, 170, 170);
+}

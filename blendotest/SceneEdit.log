@@ -1,0 +1,425 @@
+
+22:59: ********** DEBUG LOG OPENED 04-07-2013 (Release Build) *****************
+22:59: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+22:59: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+22:59: DirectX version: 9.0
+22:59: 
+22:59: Scanning packages...
+
+22:59: ********** DEBUG LOG OPENED 04-07-2013 (Release Build) *****************
+22:59: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+22:59: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+22:59: DirectX version: 9.0
+22:59: 
+22:59: Scanning packages...
+22:59:   Registered 0 files in 0 package(s)
+22:59:   Registered 0 files in 0 package(s)
+22:59: Initializing scripting engine...
+22:59: Initializing scripting engine...
+22:59:   Script compiler bound successfuly
+22:59:   Script compiler bound successfuly
+22:59: Loading plugins...
+22:59:   wme_sample_pixel.dll
+22:59:   wme_snow.dll
+22:59: Scanning packages...
+22:59:   wme_sample_pixel.dll
+22:59:   wme_snow.dll
+22:59: Scanning packages...
+22:59:   Registered 0 files in 0 package(s)
+22:59: Enumerating Direct3D devices...
+22:59:   Registered 0 files in 0 package(s)
+22:59: Enumerating Direct3D devices...
+22:59: Enumerating DirectSound devices...
+22:59: Enumerating DirectSound devices...
+22:59: Game aspect ratio:    -1.#IND00
+22:59: Monitor aspect ratio: 1.600000
+22:59: Game aspect ratio is the same as monitor aspect ratio.
+22:59: Backup resolution:  0 x 0
+22:59: 
+22:59: Game aspect ratio:    -1.#IND00
+22:59: Monitor aspect ratio: 1.600000
+22:59: Game aspect ratio is the same as monitor aspect ratio.
+22:59: Backup resolution:  0 x 0
+22:59: 
+22:59: Available video devices:
+22:59:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+22:59:     Driver: igdumdx32.dll 8.15.10.2555
+22:59:     Monitor: 0
+22:59:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+22:59:     Driver: igdumdx32.dll 8.15.10.2555
+22:59:     Monitor: 1
+22:59: Available audio devices:
+22:59:   Primary Sound Driver
+22:59:   Speakers (Conexant 20561 SmartAudio HD)
+22:59:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+22:59:   /syseng0019/[no sound]
+22:59: Auto selecting devices for windowed mode:
+22:59:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+22:59:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+22:59:   Audio: Primary Sound Driver
+22:59: Maximum texture size: 4096x4096
+22:59: Game aspect ratio:    -1.#IND00
+22:59: Monitor aspect ratio: 1.600000
+22:59: Game aspect ratio is the same as monitor aspect ratio.
+22:59: Backup resolution:  0 x 0
+22:59: 
+22:59: Game aspect ratio:    -1.#IND00
+22:59: Monitor aspect ratio: 1.600000
+22:59: Game aspect ratio is the same as monitor aspect ratio.
+22:59: Backup resolution:  0 x 0
+22:59: 
+22:59: Available video devices:
+22:59:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+22:59:     Driver: igdumdx32.dll 8.15.10.2555
+22:59:     Monitor: 0
+22:59:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+22:59:     Driver: igdumdx32.dll 8.15.10.2555
+22:59:     Monitor: 1
+22:59: Available audio devices:
+22:59:   Primary Sound Driver
+22:59:   Speakers (Conexant 20561 SmartAudio HD)
+22:59:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+22:59:   /syseng0019/[no sound]
+22:59: Auto selecting devices for windowed mode:
+22:59:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+22:59:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+22:59:   Audio: Primary Sound Driver
+22:59: Maximum texture size: 4096x4096
+22:59: ----- Open file: 'C:\Users\Tobia Tesan\Documents\GitHub\rototest\data\scenes\Room\Room.scene' -----
+22:59: ----- Open file: 'C:\Users\Tobia Tesan\Documents\GitHub\rototest\data\scenes\Room\Room.scene' -----
+15:15: 
+15:15: Shutting down...
+15:15: Shutting down scripting engine
+15:15: ********** DEBUG LOG CLOSED ********************************************
+15:15: 
+15:15: Shutting down...
+15:15: Shutting down scripting engine
+15:15: ********** DEBUG LOG CLOSED ********************************************
+
+13:08: ********** DEBUG LOG OPENED 03-09-2013 (Release Build) *****************
+13:08: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+13:08: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+13:08: DirectX version: 9.0
+13:08: 
+13:08: Scanning packages...
+13:08:   Registered 0 files in 0 package(s)
+13:08: Initializing scripting engine...
+13:08:   Script compiler bound successfuly
+13:08: Loading plugins...
+13:08:   wme_sample_pixel.dll
+13:08:   wme_snow.dll
+13:08: Scanning packages...
+13:08:   Registered 0 files in 0 package(s)
+13:08: Enumerating Direct3D devices...
+13:08: Enumerating DirectSound devices...
+13:08: Game aspect ratio:    -1.#IND00
+13:08: Monitor aspect ratio: 1.600000
+13:08: Game aspect ratio is the same as monitor aspect ratio.
+13:08: Backup resolution:  0 x 0
+13:08: 
+13:08: Game aspect ratio:    -1.#IND00
+13:08: Monitor aspect ratio: 1.600000
+13:08: Game aspect ratio is the same as monitor aspect ratio.
+13:08: Backup resolution:  0 x 0
+13:08: 
+13:08: Available video devices:
+13:08:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+13:08:     Driver: igdumdx32.dll 8.15.10.2555
+13:08:     Monitor: 0
+13:08:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+13:08:     Driver: igdumdx32.dll 8.15.10.2555
+13:08:     Monitor: 1
+13:08: Available audio devices:
+13:08:   Primary Sound Driver
+13:08:   Speakers (Conexant 20561 SmartAudio HD)
+13:08:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+13:08:   /syseng0019/[no sound]
+13:08: Auto selecting devices for windowed mode:
+13:08:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+13:08:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+13:08:   Audio: Primary Sound Driver
+13:08: Maximum texture size: 4096x4096
+13:08: ----- Open file: 'C:\Users\Tobia Tesan\Documents\GitHub\blendotest\data\scenes\Room\Room.scene' -----
+
+13:11: ********** DEBUG LOG OPENED 03-09-2013 (Release Build) *****************
+13:11: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+13:11: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+13:11: DirectX version: 9.0
+13:11: 
+13:11: Scanning packages...
+13:11:   Registered 0 files in 0 package(s)
+13:11: Initializing scripting engine...
+13:11:   Script compiler bound successfuly
+13:11: Loading plugins...
+13:11:   wme_sample_pixel.dll
+13:11:   wme_snow.dll
+13:11: Scanning packages...
+13:11:   Registered 0 files in 0 package(s)
+13:11: Enumerating Direct3D devices...
+13:11: Enumerating DirectSound devices...
+13:11: Game aspect ratio:    -1.#IND00
+13:11: Monitor aspect ratio: 1.600000
+13:11: Game aspect ratio is the same as monitor aspect ratio.
+13:11: Backup resolution:  0 x 0
+13:11: 
+13:11: Game aspect ratio:    -1.#IND00
+13:11: Monitor aspect ratio: 1.600000
+13:11: Game aspect ratio is the same as monitor aspect ratio.
+13:11: Backup resolution:  0 x 0
+13:11: 
+13:11: Available video devices:
+13:11:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+13:11:     Driver: igdumdx32.dll 8.15.10.2555
+13:11:     Monitor: 0
+13:11:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+13:11:     Driver: igdumdx32.dll 8.15.10.2555
+13:11:     Monitor: 1
+13:11: Available audio devices:
+13:11:   Primary Sound Driver
+13:11:   Speakers (Conexant 20561 SmartAudio HD)
+13:11:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+13:11:   /syseng0019/[no sound]
+13:11: Auto selecting devices for windowed mode:
+13:11:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+13:11:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+13:11:   Audio: Primary Sound Driver
+13:11: Maximum texture size: 4096x4096
+13:11: ----- Open file: 'C:\Users\Tobia Tesan\Documents\GitHub\blendotest\data\scenes\Room\Room.scene' -----
+13:12: 
+13:12: Shutting down...
+13:12: Shutting down scripting engine
+13:12: ********** DEBUG LOG CLOSED ********************************************
+
+13:12: ********** DEBUG LOG OPENED 03-09-2013 (Release Build) *****************
+13:12: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+13:12: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+13:12: DirectX version: 9.0
+13:12: 
+13:12: Scanning packages...
+13:12:   Registered 0 files in 0 package(s)
+13:12: Initializing scripting engine...
+13:12:   Script compiler bound successfuly
+13:12: Loading plugins...
+13:12:   wme_sample_pixel.dll
+13:12:   wme_snow.dll
+13:12: Scanning packages...
+13:12:   Registered 0 files in 0 package(s)
+13:12: Enumerating Direct3D devices...
+13:12: Enumerating DirectSound devices...
+13:12: Game aspect ratio:    -1.#IND00
+13:12: Monitor aspect ratio: 1.600000
+13:12: Game aspect ratio is the same as monitor aspect ratio.
+13:12: Backup resolution:  0 x 0
+13:12: 
+13:12: Game aspect ratio:    -1.#IND00
+13:12: Monitor aspect ratio: 1.600000
+13:12: Game aspect ratio is the same as monitor aspect ratio.
+13:12: Backup resolution:  0 x 0
+13:12: 
+13:12: Available video devices:
+13:12:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+13:12:     Driver: igdumdx32.dll 8.15.10.2555
+13:12:     Monitor: 0
+13:12:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+13:12:     Driver: igdumdx32.dll 8.15.10.2555
+13:12:     Monitor: 1
+13:12: Available audio devices:
+13:12:   Primary Sound Driver
+13:12:   Speakers (Conexant 20561 SmartAudio HD)
+13:12:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+13:12:   /syseng0019/[no sound]
+13:12: Auto selecting devices for windowed mode:
+13:12:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+13:12:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+13:12:   Audio: Primary Sound Driver
+13:12: Maximum texture size: 4096x4096
+13:12: ----- Open file: 'C:\Users\Tobia Tesan\Documents\GitHub\blendotest\data\scenes\Room\Room.scene' -----
+13:17: 
+13:17: Shutting down...
+13:17: Shutting down scripting engine
+13:17: ********** DEBUG LOG CLOSED ********************************************
+13:17: 
+13:17: Shutting down...
+13:17: Shutting down scripting engine
+13:17: CBSurfaceStorage warning: purging surface 'scenes\Room\palette.png', usage:2
+13:17: ********** DEBUG LOG CLOSED ********************************************
+
+00:04: ********** DEBUG LOG OPENED 06-09-2013 (Release Build) *****************
+00:04: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+00:04: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+00:04: DirectX version: 9.0
+00:04: 
+00:04: Scanning packages...
+00:04:   Registered 0 files in 0 package(s)
+00:04: Initializing scripting engine...
+00:04:   Script compiler bound successfuly
+00:04: Loading plugins...
+00:04:   wme_sample_pixel.dll
+00:04:   wme_snow.dll
+00:04: Scanning packages...
+00:04:   Registered 0 files in 0 package(s)
+00:04: Enumerating Direct3D devices...
+00:04: Enumerating DirectSound devices...
+00:04: Game aspect ratio:    -1.#IND00
+00:04: Monitor aspect ratio: 1.600000
+00:04: Game aspect ratio is the same as monitor aspect ratio.
+00:04: Backup resolution:  0 x 0
+00:04: 
+00:04: Game aspect ratio:    -1.#IND00
+00:04: Monitor aspect ratio: 1.600000
+00:04: Game aspect ratio is the same as monitor aspect ratio.
+00:04: Backup resolution:  0 x 0
+00:04: 
+00:04: Available video devices:
+00:04:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:04:     Driver: igdumdx32.dll 8.15.10.2555
+00:04:     Monitor: 0
+00:04:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:04:     Driver: igdumdx32.dll 8.15.10.2555
+00:04:     Monitor: 1
+00:04: Available audio devices:
+00:04:   Primary Sound Driver
+00:04:   Speakers (Conexant 20561 SmartAudio HD)
+00:04:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+00:04:   /syseng0019/[no sound]
+00:04: Auto selecting devices for windowed mode:
+00:04:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:04:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+00:04:   Audio: Primary Sound Driver
+00:04: Maximum texture size: 4096x4096
+00:04: ----- Open file: 'C:\Users\Tobia Tesan\Documents\GitHub\blendotest\data\scenes\Room\Room.scene' -----
+00:12: 
+00:12: Shutting down...
+00:12: Shutting down scripting engine
+00:12: ********** DEBUG LOG CLOSED ********************************************
+
+15:42: ********** DEBUG LOG OPENED 19-09-2013 (Release Build) *****************
+15:42: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+15:42: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+15:42: DirectX version: 9.0
+15:42: 
+15:42: Scanning packages...
+15:42:   Registered 0 files in 0 package(s)
+15:42: Initializing scripting engine...
+15:42:   Script compiler bound successfuly
+15:42: Loading plugins...
+15:42:   wme_sample_pixel.dll
+15:42:   wme_snow.dll
+15:42: Scanning packages...
+15:42:   Registered 0 files in 0 package(s)
+15:42: Enumerating Direct3D devices...
+15:42: Enumerating DirectSound devices...
+15:42: Game aspect ratio:    -1.#IND00
+15:42: Monitor aspect ratio: 1.600000
+15:42: Game aspect ratio is the same as monitor aspect ratio.
+15:42: Backup resolution:  0 x 0
+15:42: 
+15:42: Available video devices:
+15:42:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+15:42:     Driver: igdumdx32.dll 8.15.10.2555
+15:42:     Monitor: 0
+15:42: Available audio devices:
+15:42:   Primary Sound Driver
+15:42:   Speakers (Conexant 20561 SmartAudio HD)
+15:42:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+15:42:   /syseng0019/[no sound]
+15:42: Auto selecting devices for windowed mode:
+15:42:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+15:42:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+15:42:   Audio: Primary Sound Driver
+15:42: Maximum texture size: 4096x4096
+15:42: ----- Open file: 'C:\Users\Tobia Tesan\Desktop\TestSuite\blendotest\data\scenes\Room\Room.scene' -----
+15:42: CBSprite::LoadFile failed for file 'scenes\Room\90.bmp'
+15:42: CBSprite::LoadFile failed for file 'scenes\Room\0.bmp'
+15:42: CBSprite::LoadFile failed for file 'scenes\Room\270.bmp'
+15:42: CBSprite::LoadFile failed for file 'scenes\Room\+10.bmp'
+15:56: 
+15:56: Shutting down...
+15:56: Shutting down scripting engine
+15:56: ********** DEBUG LOG CLOSED ********************************************
+
+15:59: ********** DEBUG LOG OPENED 19-09-2013 (Release Build) *****************
+15:59: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+15:59: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+15:59: DirectX version: 9.0
+15:59: 
+15:59: Scanning packages...
+15:59:   Registered 0 files in 0 package(s)
+15:59: Initializing scripting engine...
+15:59:   Script compiler bound successfuly
+15:59: Loading plugins...
+15:59:   wme_sample_pixel.dll
+15:59:   wme_snow.dll
+15:59: Scanning packages...
+15:59:   Registered 0 files in 0 package(s)
+15:59: Enumerating Direct3D devices...
+15:59: Enumerating DirectSound devices...
+15:59: Game aspect ratio:    -1.#IND00
+15:59: Monitor aspect ratio: 1.600000
+15:59: Game aspect ratio is the same as monitor aspect ratio.
+15:59: Backup resolution:  0 x 0
+15:59: 
+15:59: Available video devices:
+15:59:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+15:59:     Driver: igdumdx32.dll 8.15.10.2555
+15:59:     Monitor: 0
+15:59: Available audio devices:
+15:59:   Primary Sound Driver
+15:59:   Speakers (Conexant 20561 SmartAudio HD)
+15:59:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+15:59:   /syseng0019/[no sound]
+15:59: Auto selecting devices for windowed mode:
+15:59:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+15:59:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+15:59:   Audio: Primary Sound Driver
+15:59: Maximum texture size: 4096x4096
+15:59: ----- Open file: 'C:\Users\Tobia Tesan\Desktop\TestSuite\blendotest\data\scenes\Room\Room.scene' -----
+15:59: Error opening file 'scenes\Room\scr\zoom.script'
+15:59: CScEngine::GetCompiledScript - error opening script 'scenes\Room\scr\zoom.script'
+
+15:59: ********** DEBUG LOG OPENED 19-09-2013 (Release Build) *****************
+15:59: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+15:59: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+15:59: DirectX version: 9.0
+15:59: 
+15:59: Scanning packages...
+15:59:   Registered 0 files in 0 package(s)
+15:59: Initializing scripting engine...
+15:59:   Script compiler bound successfuly
+15:59: Loading plugins...
+15:59:   wme_sample_pixel.dll
+15:59:   wme_snow.dll
+15:59: Scanning packages...
+15:59:   Registered 0 files in 0 package(s)
+15:59: Enumerating Direct3D devices...
+15:59: Enumerating DirectSound devices...
+15:59: Game aspect ratio:    -1.#IND00
+15:59: Monitor aspect ratio: 1.600000
+15:59: Game aspect ratio is the same as monitor aspect ratio.
+15:59: Backup resolution:  0 x 0
+15:59: 
+15:59: Available video devices:
+15:59:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+15:59:     Driver: igdumdx32.dll 8.15.10.2555
+15:59:     Monitor: 0
+15:59: Available audio devices:
+15:59:   Primary Sound Driver
+15:59:   Speakers (Conexant 20561 SmartAudio HD)
+15:59:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+15:59:   /syseng0019/[no sound]
+15:59: Auto selecting devices for windowed mode:
+15:59:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+15:59:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+15:59:   Audio: Primary Sound Driver
+15:59: Maximum texture size: 4096x4096
+15:59: ----- Open file: 'C:\Users\Tobia Tesan\Desktop\TestSuite\blendotest\data\scenes\Room\Room.scene' -----
+15:59: Error opening file 'scenes\Room\scr\zoom.script'
+15:59: CScEngine::GetCompiledScript - error opening script 'scenes\Room\scr\zoom.script'
+15:59: 
+15:59: Shutting down...
+15:59: Shutting down scripting engine
+15:59: ********** DEBUG LOG CLOSED ********************************************
+19:17: 
+19:17: Shutting down...
+19:17: Shutting down scripting engine
+19:18: ********** DEBUG LOG CLOSED ********************************************

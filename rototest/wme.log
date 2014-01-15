@@ -1,0 +1,544 @@
+
+22:55: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+22:55: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+22:55: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+22:55: DirectX version: 9.0
+22:55: 
+22:55: Scanning packages...
+22:55:   Registered 0 files in 0 package(s)
+22:55: Initializing scripting engine...
+22:55:   Script compiler bound successfuly
+22:55: Loading plugins...
+22:55:   wme_sample_pixel.dll
+22:55:   wme_snow.dll
+22:55: Loading string table...
+22:55:   51 strings loaded
+22:55: Enumerating Direct3D devices...
+22:55: Enumerating DirectSound devices...
+22:55: Game aspect ratio:    1.333333
+22:55: Monitor aspect ratio: 1.600000
+22:55: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+22:55:   -> Considering: 960 x 600
+22:55:   -> Considering: 960 x 600
+22:55:   -> Considering: 1280 x 720
+22:55:   -> Considering: 1280 x 720
+22:55:   -> Considering: 1280 x 768
+22:55:   -> Considering: 1280 x 768
+22:55:   -> Considering: 1280 x 800
+22:55:   -> Considering: 1280 x 800
+22:55:   -> Considering: 1360 x 768
+22:55:   -> Considering: 1360 x 768
+22:55:   -> Considering: 1440 x 900
+22:55:   -> Considering: 1440 x 900
+22:55:   -> Considering: 1600 x 900
+22:55:   -> Considering: 1600 x 900
+22:55:   -> Considering: 1680 x 1050
+22:55:   -> Considering: 1680 x 1050
+22:55: Optimal resolution: 960 x 600
+22:55: Backup resolution:  960 x 600
+22:55: 
+22:55: Game aspect ratio:    1.333333
+22:55: Monitor aspect ratio: 1.600000
+22:55: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+22:55:   -> Considering: 960 x 600
+22:55:   -> Considering: 960 x 600
+22:55:   -> Considering: 1280 x 720
+22:55:   -> Considering: 1280 x 720
+22:55:   -> Considering: 1280 x 768
+22:55:   -> Considering: 1280 x 768
+22:55:   -> Considering: 1280 x 800
+22:55:   -> Considering: 1280 x 800
+22:55: Optimal resolution: 960 x 600
+22:55: Backup resolution:  960 x 600
+22:55: 
+22:55: Available video devices:
+22:55:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+22:55:     Driver: igdumdx32.dll 8.15.10.2555
+22:55:     Monitor: 0
+22:55:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+22:55:     Driver: igdumdx32.dll 8.15.10.2555
+22:55:     Monitor: 1
+22:55: Available audio devices:
+22:55:   Primary Sound Driver
+22:55:   Speakers (Conexant 20561 SmartAudio HD)
+22:55:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+22:55:   [no sound]
+22:55: 
+22:55: User selected:
+22:55:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+22:55:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+22:55:   Audio: Primary Sound Driver
+22:55: Maximum texture size: 4096x4096
+22:55: Engine initialized in 482 ms
+22:55: 
+02:39: 
+02:39: Shutting down...
+02:39: Shutting down scripting engine
+02:39: ********** DEBUG LOG CLOSED ********************************************
+
+00:35: ********** DEBUG LOG OPENED 04-07-2013 (Release Build) *****************
+00:35: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:35: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+00:35: DirectX version: 9.0
+00:35: 
+00:35: Scanning packages...
+00:35:   Registered 0 files in 0 package(s)
+00:35: Initializing scripting engine...
+00:35:   Script compiler bound successfuly
+00:35: Loading plugins...
+00:35:   wme_sample_pixel.dll
+00:35:   wme_snow.dll
+00:35: Loading string table...
+00:35:   51 strings loaded
+00:35: Enumerating Direct3D devices...
+00:35: Enumerating DirectSound devices...
+00:35: Game aspect ratio:    1.333333
+00:35: Monitor aspect ratio: 1.600000
+00:35: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+00:35:   -> Considering: 960 x 600
+00:35:   -> Considering: 960 x 600
+00:35:   -> Considering: 1280 x 720
+00:35:   -> Considering: 1280 x 720
+00:35:   -> Considering: 1280 x 768
+00:35:   -> Considering: 1280 x 768
+00:35:   -> Considering: 1280 x 800
+00:35:   -> Considering: 1280 x 800
+00:35:   -> Considering: 1360 x 768
+00:35:   -> Considering: 1360 x 768
+00:35:   -> Considering: 1440 x 900
+00:35:   -> Considering: 1440 x 900
+00:35:   -> Considering: 1600 x 900
+00:35:   -> Considering: 1600 x 900
+00:35:   -> Considering: 1680 x 1050
+00:35:   -> Considering: 1680 x 1050
+00:35: Optimal resolution: 960 x 600
+00:35: Backup resolution:  960 x 600
+00:35: 
+00:35: Game aspect ratio:    1.333333
+00:35: Monitor aspect ratio: 1.600000
+00:35: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+00:35:   -> Considering: 960 x 600
+00:35:   -> Considering: 960 x 600
+00:35:   -> Considering: 1280 x 720
+00:35:   -> Considering: 1280 x 720
+00:35:   -> Considering: 1280 x 768
+00:35:   -> Considering: 1280 x 768
+00:35:   -> Considering: 1280 x 800
+00:35:   -> Considering: 1280 x 800
+00:35: Optimal resolution: 960 x 600
+00:35: Backup resolution:  960 x 600
+00:35: 
+00:35: Available video devices:
+00:35:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:35:     Driver: igdumdx32.dll 8.15.10.2555
+00:35:     Monitor: 0
+00:35:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:35:     Driver: igdumdx32.dll 8.15.10.2555
+00:35:     Monitor: 1
+00:35: Available audio devices:
+00:35:   Primary Sound Driver
+00:35:   Speakers (Conexant 20561 SmartAudio HD)
+00:35:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+00:35:   [no sound]
+00:35: 
+00:35: User selected:
+00:35:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:35:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:35:   Audio: Primary Sound Driver
+00:35: Maximum texture size: 4096x4096
+00:35: Engine initialized in 133 ms
+00:35: 
+01:38: 
+01:38: Shutting down...
+01:38: Shutting down scripting engine
+01:38: ********** DEBUG LOG CLOSED ********************************************
+
+00:21: ********** DEBUG LOG OPENED 06-07-2013 (Release Build) *****************
+00:21: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:21: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+00:21: DirectX version: 9.0
+00:21: 
+00:21: Scanning packages...
+00:21:   Registered 0 files in 0 package(s)
+00:21: Initializing scripting engine...
+00:21:   Script compiler bound successfuly
+00:21: Loading plugins...
+00:21:   wme_sample_pixel.dll
+00:21:   wme_snow.dll
+00:21: Loading string table...
+00:21:   51 strings loaded
+00:21: Enumerating Direct3D devices...
+00:21: Enumerating DirectSound devices...
+00:21: Game aspect ratio:    1.333333
+00:21: Monitor aspect ratio: 1.600000
+00:21: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+00:21:   -> Considering: 960 x 600
+00:21:   -> Considering: 960 x 600
+00:21:   -> Considering: 1280 x 720
+00:21:   -> Considering: 1280 x 720
+00:21:   -> Considering: 1280 x 768
+00:21:   -> Considering: 1280 x 768
+00:21:   -> Considering: 1280 x 800
+00:21:   -> Considering: 1280 x 800
+00:21:   -> Considering: 1360 x 768
+00:21:   -> Considering: 1360 x 768
+00:21:   -> Considering: 1440 x 900
+00:21:   -> Considering: 1440 x 900
+00:21:   -> Considering: 1600 x 900
+00:21:   -> Considering: 1600 x 900
+00:21:   -> Considering: 1680 x 1050
+00:21:   -> Considering: 1680 x 1050
+00:21: Optimal resolution: 960 x 600
+00:21: Backup resolution:  960 x 600
+00:21: 
+00:21: Game aspect ratio:    1.333333
+00:21: Monitor aspect ratio: 1.600000
+00:21: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+00:21:   -> Considering: 960 x 600
+00:21:   -> Considering: 960 x 600
+00:21:   -> Considering: 1280 x 720
+00:21:   -> Considering: 1280 x 720
+00:21:   -> Considering: 1280 x 768
+00:21:   -> Considering: 1280 x 768
+00:21:   -> Considering: 1280 x 800
+00:21:   -> Considering: 1280 x 800
+00:21: Optimal resolution: 960 x 600
+00:21: Backup resolution:  960 x 600
+00:21: 
+00:21: Available video devices:
+00:21:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:21:     Driver: igdumdx32.dll 8.15.10.2555
+00:21:     Monitor: 0
+00:21:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:22:     Driver: igdumdx32.dll 8.15.10.2555
+00:22:     Monitor: 1
+00:22: Available audio devices:
+00:22:   Primary Sound Driver
+00:22:   Speakers (Conexant 20561 SmartAudio HD)
+00:22:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+00:22:   [no sound]
+00:22: 
+00:22: User selected:
+00:22:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:22:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:22:   Audio: Primary Sound Driver
+00:22: Maximum texture size: 4096x4096
+00:22: Compiling script 'scripts\game.script'...
+00:22:   Error@line 1: syntax error
+00:22: Compiling script 'items\book.script'...
+00:22:   Error@line 1: syntax error
+00:22: Engine initialized in 452 ms
+00:22: 
+00:22: 
+00:22: Shutting down...
+00:22: Shutting down scripting engine
+00:22: ********** DEBUG LOG CLOSED ********************************************
+
+00:24: ********** DEBUG LOG OPENED 06-07-2013 (Release Build) *****************
+00:24: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:24: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+00:24: DirectX version: 9.0
+00:24: 
+00:24: Scanning packages...
+00:24:   Registered 0 files in 0 package(s)
+00:24: Initializing scripting engine...
+00:24:   Script compiler bound successfuly
+00:24: Loading plugins...
+00:24:   wme_sample_pixel.dll
+00:24:   wme_snow.dll
+00:24: Loading string table...
+00:24:   51 strings loaded
+00:24: Enumerating Direct3D devices...
+00:24: Enumerating DirectSound devices...
+00:24: Game aspect ratio:    1.333333
+00:24: Monitor aspect ratio: 1.600000
+00:24: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+00:24:   -> Considering: 960 x 600
+00:24:   -> Considering: 960 x 600
+00:24:   -> Considering: 1280 x 720
+00:24:   -> Considering: 1280 x 720
+00:24:   -> Considering: 1280 x 768
+00:24:   -> Considering: 1280 x 768
+00:24:   -> Considering: 1280 x 800
+00:24:   -> Considering: 1280 x 800
+00:24:   -> Considering: 1360 x 768
+00:24:   -> Considering: 1360 x 768
+00:24:   -> Considering: 1440 x 900
+00:24:   -> Considering: 1440 x 900
+00:24:   -> Considering: 1600 x 900
+00:24:   -> Considering: 1600 x 900
+00:24:   -> Considering: 1680 x 1050
+00:24:   -> Considering: 1680 x 1050
+00:24: Optimal resolution: 960 x 600
+00:24: Backup resolution:  960 x 600
+00:24: 
+00:24: Game aspect ratio:    1.333333
+00:24: Monitor aspect ratio: 1.600000
+00:24: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+00:24:   -> Considering: 960 x 600
+00:24:   -> Considering: 960 x 600
+00:24:   -> Considering: 1280 x 720
+00:24:   -> Considering: 1280 x 720
+00:24:   -> Considering: 1280 x 768
+00:24:   -> Considering: 1280 x 768
+00:24:   -> Considering: 1280 x 800
+00:24:   -> Considering: 1280 x 800
+00:24: Optimal resolution: 960 x 600
+00:24: Backup resolution:  960 x 600
+00:24: 
+00:24: Available video devices:
+00:24:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:24:     Driver: igdumdx32.dll 8.15.10.2555
+00:24:     Monitor: 0
+00:24:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:24:     Driver: igdumdx32.dll 8.15.10.2555
+00:24:     Monitor: 1
+00:24: Available audio devices:
+00:24:   Primary Sound Driver
+00:24:   Speakers (Conexant 20561 SmartAudio HD)
+00:24:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+00:24:   [no sound]
+00:24: 
+00:24: User selected:
+00:24:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:24:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:24:   Audio: Primary Sound Driver
+00:24: Maximum texture size: 4096x4096
+00:24: Engine initialized in 154 ms
+00:24: 
+
+00:51: ********** DEBUG LOG OPENED 06-07-2013 (Release Build) *****************
+00:51: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:51: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+00:51: DirectX version: 9.0
+00:51: 
+00:51: Scanning packages...
+00:51:   Registered 0 files in 0 package(s)
+00:51: Initializing scripting engine...
+00:51:   Script compiler bound successfuly
+00:51: Loading plugins...
+00:51:   wme_sample_pixel.dll
+00:51:   wme_snow.dll
+00:51: Loading string table...
+00:51:   51 strings loaded
+00:51: First run / crash recovery
+00:51: Enumerating Direct3D devices...
+00:51: Enumerating DirectSound devices...
+00:51: Game aspect ratio:    1.333333
+00:51: Monitor aspect ratio: 1.600000
+00:51: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+00:51:   -> Considering: 960 x 600
+00:51:   -> Considering: 960 x 600
+00:51:   -> Considering: 1280 x 720
+00:51:   -> Considering: 1280 x 720
+00:51:   -> Considering: 1280 x 768
+00:51:   -> Considering: 1280 x 768
+00:51:   -> Considering: 1280 x 800
+00:51:   -> Considering: 1280 x 800
+00:51:   -> Considering: 1360 x 768
+00:51:   -> Considering: 1360 x 768
+00:51:   -> Considering: 1440 x 900
+00:51:   -> Considering: 1440 x 900
+00:51:   -> Considering: 1600 x 900
+00:51:   -> Considering: 1600 x 900
+00:51:   -> Considering: 1680 x 1050
+00:51:   -> Considering: 1680 x 1050
+00:51: Optimal resolution: 960 x 600
+00:51: Backup resolution:  960 x 600
+00:51: 
+00:51: Game aspect ratio:    1.333333
+00:51: Monitor aspect ratio: 1.600000
+00:51: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+00:51:   -> Considering: 960 x 600
+00:51:   -> Considering: 960 x 600
+00:51:   -> Considering: 1280 x 720
+00:51:   -> Considering: 1280 x 720
+00:51:   -> Considering: 1280 x 768
+00:51:   -> Considering: 1280 x 768
+00:51:   -> Considering: 1280 x 800
+00:51:   -> Considering: 1280 x 800
+00:51: Optimal resolution: 960 x 600
+00:51: Backup resolution:  960 x 600
+00:51: 
+00:51: Available video devices:
+00:51:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:51:     Driver: igdumdx32.dll 8.15.10.2555
+00:51:     Monitor: 0
+00:51:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:51:     Driver: igdumdx32.dll 8.15.10.2555
+00:51:     Monitor: 1
+00:51: Available audio devices:
+00:51:   Primary Sound Driver
+00:51:   Speakers (Conexant 20561 SmartAudio HD)
+00:51:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+00:51:   [no sound]
+00:51: 
+00:51: User selected:
+00:51:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+00:51:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:51:   Audio: Primary Sound Driver
+00:51: Maximum texture size: 4096x4096
+00:51: Engine initialized in 43 ms
+00:51: 
+13:12: 
+13:12: Shutting down...
+13:12: Shutting down scripting engine
+13:12: ********** DEBUG LOG CLOSED ********************************************
+13:16: 
+13:16: Shutting down...
+13:16: Shutting down scripting engine
+13:16: ********** DEBUG LOG CLOSED ********************************************
+
+14:21: ********** DEBUG LOG OPENED 19-09-2013 (Release Build) *****************
+14:21: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+14:21: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+14:21: DirectX version: 9.0
+14:21: 
+14:21: Scanning packages...
+14:21:   Registered 0 files in 0 package(s)
+14:21: Initializing scripting engine...
+14:21:   Script compiler bound successfuly
+14:21: Loading plugins...
+14:21:   wme_sample_pixel.dll
+14:21:   wme_snow.dll
+14:21: Loading string table...
+14:21:   51 strings loaded
+14:21: Enumerating Direct3D devices...
+14:21: Enumerating DirectSound devices...
+14:21: Game aspect ratio:    1.333333
+14:21: Monitor aspect ratio: 1.600000
+14:21: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+14:21:   -> Considering: 960 x 600
+14:21:   -> Considering: 960 x 600
+14:21:   -> Considering: 1280 x 720
+14:21:   -> Considering: 1280 x 720
+14:21:   -> Considering: 1280 x 768
+14:21:   -> Considering: 1280 x 768
+14:21:   -> Considering: 1280 x 800
+14:21:   -> Considering: 1280 x 800
+14:21:   -> Considering: 1360 x 768
+14:21:   -> Considering: 1360 x 768
+14:21:   -> Considering: 1440 x 900
+14:21:   -> Considering: 1440 x 900
+14:21:   -> Considering: 1600 x 900
+14:21:   -> Considering: 1600 x 900
+14:21:   -> Considering: 1680 x 1050
+14:21:   -> Considering: 1680 x 1050
+14:21: Optimal resolution: 960 x 600
+14:21: Backup resolution:  960 x 600
+14:21: 
+14:21: Game aspect ratio:    1.333333
+14:21: Monitor aspect ratio: 1.600000
+14:21: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+14:21:   -> Considering: 960 x 600
+14:21:   -> Considering: 960 x 600
+14:21:   -> Considering: 1280 x 720
+14:21:   -> Considering: 1280 x 720
+14:21:   -> Considering: 1280 x 768
+14:21:   -> Considering: 1280 x 768
+14:21:   -> Considering: 1280 x 800
+14:21:   -> Considering: 1280 x 800
+14:21: Optimal resolution: 960 x 600
+14:21: Backup resolution:  960 x 600
+14:21: 
+14:21: Available video devices:
+14:21:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+14:21:     Driver: igdumdx32.dll 8.15.10.2555
+14:21:     Monitor: 0
+14:21:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+14:21:     Driver: igdumdx32.dll 8.15.10.2555
+14:21:     Monitor: 1
+14:21: Available audio devices:
+14:21:   Primary Sound Driver
+14:21:   Speakers (Conexant 20561 SmartAudio HD)
+14:21:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+14:21:   [no sound]
+14:21: 
+14:21: User selected:
+14:21:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+14:21:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+14:21:   Audio: Primary Sound Driver
+14:21: Maximum texture size: 4096x4096
+14:21: Engine initialized in 150 ms
+14:21: 
+14:22: 
+14:22: Shutting down...
+14:22: Shutting down scripting engine
+14:22: ********** DEBUG LOG CLOSED ********************************************
+
+14:23: ********** DEBUG LOG OPENED 19-09-2013 (Release Build) *****************
+14:23: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+14:23: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+14:23: DirectX version: 9.0
+14:23: 
+14:23: Scanning packages...
+14:23:   Registered 0 files in 0 package(s)
+14:23: Initializing scripting engine...
+14:23:   Script compiler bound successfuly
+14:23: Loading plugins...
+14:23:   wme_sample_pixel.dll
+14:23:   wme_snow.dll
+14:23: Loading string table...
+14:23:   51 strings loaded
+14:23: Enumerating Direct3D devices...
+14:23: Enumerating DirectSound devices...
+14:23: Game aspect ratio:    1.333333
+14:23: Monitor aspect ratio: 1.600000
+14:23: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+14:23:   -> Considering: 960 x 600
+14:23:   -> Considering: 960 x 600
+14:23:   -> Considering: 1280 x 720
+14:23:   -> Considering: 1280 x 720
+14:23:   -> Considering: 1280 x 768
+14:23:   -> Considering: 1280 x 768
+14:23:   -> Considering: 1280 x 800
+14:23:   -> Considering: 1280 x 800
+14:23:   -> Considering: 1360 x 768
+14:23:   -> Considering: 1360 x 768
+14:23:   -> Considering: 1440 x 900
+14:23:   -> Considering: 1440 x 900
+14:23:   -> Considering: 1600 x 900
+14:23:   -> Considering: 1600 x 900
+14:23:   -> Considering: 1680 x 1050
+14:23:   -> Considering: 1680 x 1050
+14:23: Optimal resolution: 960 x 600
+14:23: Backup resolution:  960 x 600
+14:23: 
+14:23: Game aspect ratio:    1.333333
+14:23: Monitor aspect ratio: 1.600000
+14:23: Searching for optimal resolution (device: Mobile Intel(R) 4 Series Express Chipset Family)
+14:23:   -> Considering: 960 x 600
+14:23:   -> Considering: 960 x 600
+14:23:   -> Considering: 1280 x 720
+14:23:   -> Considering: 1280 x 720
+14:23:   -> Considering: 1280 x 768
+14:23:   -> Considering: 1280 x 768
+14:23:   -> Considering: 1280 x 800
+14:23:   -> Considering: 1280 x 800
+14:23: Optimal resolution: 960 x 600
+14:23: Backup resolution:  960 x 600
+14:23: 
+14:23: Available video devices:
+14:23:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+14:23:     Driver: igdumdx32.dll 8.15.10.2555
+14:23:     Monitor: 0
+14:23:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+14:23:     Driver: igdumdx32.dll 8.15.10.2555
+14:23:     Monitor: 1
+14:23: Available audio devices:
+14:23:   Primary Sound Driver
+14:23:   Speakers (Conexant 20561 SmartAudio HD)
+14:23:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+14:23:   [no sound]
+14:23: 
+14:23: User selected:
+14:23:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+14:23:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+14:23:   Audio: Primary Sound Driver
+14:23: Maximum texture size: 4096x4096
+14:23: Engine initialized in 40 ms
+14:23: 
+14:23: 
+14:23: Shutting down...
+14:23: Shutting down scripting engine
+14:23: ********** DEBUG LOG CLOSED ********************************************

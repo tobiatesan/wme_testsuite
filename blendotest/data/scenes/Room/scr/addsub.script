@@ -1,0 +1,39 @@
+#include "scripts\base.inc"
+////////////////////////////////////////////////////////////////////////////////
+on "LookAt"
+{
+}
+
+function wotate(sprite, deg) {
+  var foo = 0;
+  foo = foo + deg;
+  if (sprite.Rotate==null) sprite.Rotate = 0;
+  if (sprite.Rotatable!=true) sprite.Rotatable=true;
+  sprite.Rotate = (sprite.Rotate+deg)%360;
+}
+
+////////////////////////////////////////////////////////////////////////////////
+on "Take"
+{
+}
+
+
+////////////////////////////////////////////////////////////////////////////////
+on "Talk"
+{
+}
+
+
+////////////////////////////////////////////////////////////////////////////////
+on "LeftClick"
+{
+  var sprite = Scene.GetNode("a");
+  sprite.BlendMode = 0;
+  sprite = Scene.GetNode("b");
+  sprite.BlendMode = 1;
+  sprite = Scene.GetNode("c");
+  sprite.BlendMode = 2;
+  sprite = Scene.GetNode("d");
+  sprite.BlendMode = 0;
+
+}

@@ -1,0 +1,98 @@
+
+18:49: ********** DEBUG LOG OPENED 13-09-2013 (Release Build) *****************
+18:49: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+18:49: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+18:49: DirectX version: 9.0
+18:49: 
+18:49: Scanning packages...
+18:49:   Registered 0 files in 0 package(s)
+18:49: Initializing scripting engine...
+18:49:   Script compiler bound successfuly
+18:49: Loading plugins...
+18:49:   wme_sample_pixel.dll
+18:49:   wme_snow.dll
+18:49: Scanning packages...
+18:49:   Registered 0 files in 0 package(s)
+18:49: Enumerating Direct3D devices...
+18:49: Enumerating DirectSound devices...
+18:49: Game aspect ratio:    -1.#IND00
+18:49: Monitor aspect ratio: 1.600000
+18:49: Game aspect ratio is the same as monitor aspect ratio.
+18:49: Backup resolution:  0 x 0
+18:49: 
+18:49: Game aspect ratio:    -1.#IND00
+18:49: Monitor aspect ratio: 1.600000
+18:49: Game aspect ratio is the same as monitor aspect ratio.
+18:49: Backup resolution:  0 x 0
+18:49: 
+18:49: Available video devices:
+18:49:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+18:49:     Driver: igdumdx32.dll 8.15.10.2555
+18:49:     Monitor: 0
+18:49:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+18:49:     Driver: igdumdx32.dll 8.15.10.2555
+18:49:     Monitor: 1
+18:49: Available audio devices:
+18:49:   Primary Sound Driver
+18:49:   Speakers (Conexant 20561 SmartAudio HD)
+18:49:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+18:49:   /syseng0019/[no sound]
+18:49: Auto selecting devices for windowed mode:
+18:49:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+18:49:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+18:49:   Audio: Primary Sound Driver
+18:49: Maximum texture size: 4096x4096
+18:49: ----- Open file: 'C:\Users\Tobia Tesan\Documents\GitHub\dirtytest\data\scenes\Room\ani_sprite.sprite' -----
+19:03: 
+19:03: Shutting down...
+19:03: Shutting down scripting engine
+19:03: ********** DEBUG LOG CLOSED ********************************************
+
+21:26: ********** DEBUG LOG OPENED 13-09-2013 (Release Build) *****************
+21:26: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+21:26: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+21:26: DirectX version: 9.0
+21:26: 
+21:26: Scanning packages...
+21:26:   Registered 0 files in 0 package(s)
+21:26: Initializing scripting engine...
+21:26:   Script compiler bound successfuly
+21:26: Loading plugins...
+21:26:   wme_sample_pixel.dll
+21:26:   wme_snow.dll
+21:26: Scanning packages...
+21:26:   Registered 0 files in 0 package(s)
+21:26: Enumerating Direct3D devices...
+21:26: Enumerating DirectSound devices...
+21:26: Game aspect ratio:    -1.#IND00
+21:26: Monitor aspect ratio: 1.600000
+21:26: Game aspect ratio is the same as monitor aspect ratio.
+21:26: Backup resolution:  0 x 0
+21:26: 
+21:26: Game aspect ratio:    -1.#IND00
+21:26: Monitor aspect ratio: 1.600000
+21:26: Game aspect ratio is the same as monitor aspect ratio.
+21:26: Backup resolution:  0 x 0
+21:26: 
+21:26: Available video devices:
+21:26:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+21:26:     Driver: igdumdx32.dll 8.15.10.2555
+21:26:     Monitor: 0
+21:26:   Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+21:26:     Driver: igdumdx32.dll 8.15.10.2555
+21:26:     Monitor: 1
+21:26: Available audio devices:
+21:26:   Primary Sound Driver
+21:26:   Speakers (Conexant 20561 SmartAudio HD)
+21:26:   SPDIF Interface (Conexant 20561 SmartAudio HD)
+21:26:   /syseng0019/[no sound]
+21:26: Auto selecting devices for windowed mode:
+21:26:   Video: Mobile Intel(R) 4 Series Express Chipset Family (accelerated)
+21:26:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+21:26:   Audio: Primary Sound Driver
+21:26: Maximum texture size: 4096x4096
+21:26: ----- Open file: 'C:\Users\Tobia Tesan\Documents\GitHub\dirtytest\data\scenes\Room\ani_sprite.sprite' -----
+21:26: 
+21:26: Shutting down...
+21:26: Shutting down scripting engine
+21:26: ********** DEBUG LOG CLOSED ********************************************
