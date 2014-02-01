@@ -40,3 +40,242 @@
 16:06: Shutting down...
 16:06: Shutting down scripting engine
 16:06: ********** DEBUG LOG CLOSED ********************************************
+
+16:47: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+16:47: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+16:47: Platform: Windows XP Service Pack 3 (Build 2600)
+16:47: DirectX version: 9.0
+16:47: 
+16:47: Scanning packages...
+16:47:   Registered 0 files in 0 package(s)
+16:47: Initializing scripting engine...
+16:47:   Script compiler bound successfuly
+16:47: Loading plugins...
+16:47:   wme_sample_pixel.dll
+16:47:   wme_snow.dll
+16:47: Loading string table...
+16:47:   51 strings loaded
+16:47: Enumerating Direct3D devices...
+16:47: Enumerating DirectSound devices...
+16:47: Game aspect ratio:    1.333333
+16:47: Monitor aspect ratio: 1.250000
+16:47: Game aspect ratio is the same as monitor aspect ratio.
+16:47: Backup resolution:  800 x 600
+16:47: 
+16:47: Available video devices:
+16:47:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:47:     Driver: igxprd32.dll 6.14.10.5218
+16:47:     Monitor: 0
+16:47: Available audio devices:
+16:47:   [no sound]
+16:47: 
+16:47: Device selection cancelled by user
+16:47: Fatal: error querying available hardware. Exiting.
+16:47: 
+16:47: Shutting down...
+16:47: Shutting down scripting engine
+16:47: ********** DEBUG LOG CLOSED ********************************************
+
+16:47: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+16:47: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+16:47: Platform: Windows XP Service Pack 3 (Build 2600)
+16:47: DirectX version: 9.0
+16:47: 
+16:47: Scanning packages...
+16:47:   Registered 0 files in 0 package(s)
+16:47: Initializing scripting engine...
+16:47:   Script compiler bound successfuly
+16:47: Loading plugins...
+16:47:   wme_sample_pixel.dll
+16:47:   wme_snow.dll
+16:47: Loading string table...
+16:47:   51 strings loaded
+16:47: Enumerating Direct3D devices...
+16:47: Enumerating DirectSound devices...
+16:47: Game aspect ratio:    1.333333
+16:47: Monitor aspect ratio: 1.250000
+16:47: Game aspect ratio is the same as monitor aspect ratio.
+16:47: Backup resolution:  800 x 600
+16:47: 
+16:47: Available video devices:
+16:47:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:47:     Driver: igxprd32.dll 6.14.10.5218
+16:47:     Monitor: 0
+16:47: Available audio devices:
+16:47:   [no sound]
+16:47: 
+16:47: User selected:
+16:47:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:47:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+16:47:   Audio: [no sound]
+
+16:47: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+16:47: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+16:47: Platform: Windows XP Service Pack 3 (Build 2600)
+16:47: DirectX version: 9.0
+16:47: 
+16:47: Scanning packages...
+16:47:   Registered 0 files in 0 package(s)
+16:47: Initializing scripting engine...
+16:47:   Script compiler bound successfuly
+16:47: Loading plugins...
+16:47:   wme_sample_pixel.dll
+16:47:   wme_snow.dll
+16:47: Loading string table...
+16:47:   51 strings loaded
+16:47: First run / crash recovery
+16:47: Enumerating Direct3D devices...
+16:47: Enumerating DirectSound devices...
+16:47: Game aspect ratio:    1.333333
+16:47: Monitor aspect ratio: 1.250000
+16:47: Game aspect ratio is the same as monitor aspect ratio.
+16:47: Backup resolution:  800 x 600
+16:47: 
+16:47: Available video devices:
+16:47:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:47:     Driver: igxprd32.dll 6.14.10.5218
+16:47:     Monitor: 0
+16:47: Available audio devices:
+16:47:   [no sound]
+16:47: 
+16:47: User selected:
+16:47:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:47:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+16:47:   Audio: [no sound]
+
+16:48: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+16:48: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+16:48: Platform: Windows XP Service Pack 3 (Build 2600)
+16:48: DirectX version: 9.0
+16:48: 
+16:48: Scanning packages...
+16:48:   Registered 0 files in 0 package(s)
+16:48: Initializing scripting engine...
+16:48:   Script compiler bound successfuly
+16:48: Loading plugins...
+16:48:   wme_sample_pixel.dll
+16:48:   wme_snow.dll
+16:48: Loading string table...
+16:48:   51 strings loaded
+16:48: First run / crash recovery
+16:48: Enumerating Direct3D devices...
+16:48: Enumerating DirectSound devices...
+16:48: Game aspect ratio:    1.333333
+16:48: Monitor aspect ratio: 1.250000
+16:48: Game aspect ratio is the same as monitor aspect ratio.
+16:48: Backup resolution:  800 x 600
+16:48: 
+16:48: Available video devices:
+16:48:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:48:     Driver: igxprd32.dll 6.14.10.5218
+16:48:     Monitor: 0
+16:48: Available audio devices:
+16:48:   [no sound]
+16:48: 
+16:48: Device selection cancelled by user
+16:48: Fatal: error querying available hardware. Exiting.
+16:48: 
+16:48: Shutting down...
+16:48: Shutting down scripting engine
+16:48: ********** DEBUG LOG CLOSED ********************************************
+
+16:50: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+16:50: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+16:50: Platform: Windows XP Service Pack 3 (Build 2600)
+16:50: DirectX version: 9.0
+16:50: 
+16:50: Scanning packages...
+16:50:   Registered 0 files in 0 package(s)
+16:50: Initializing scripting engine...
+16:50:   Script compiler bound successfuly
+16:50: Loading plugins...
+16:50:   wme_sample_pixel.dll
+16:50:   wme_snow.dll
+16:50: Loading string table...
+16:50:   51 strings loaded
+16:50: Enumerating Direct3D devices...
+16:50: Enumerating DirectSound devices...
+16:50: Game aspect ratio:    1.333333
+16:50: Monitor aspect ratio: 1.250000
+16:50: Game aspect ratio is the same as monitor aspect ratio.
+16:50: Backup resolution:  800 x 600
+16:50: 
+16:50: Available video devices:
+16:50:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:50:     Driver: igxprd32.dll 6.14.10.5218
+16:50:     Monitor: 0
+16:50: Available audio devices:
+16:50:   [no sound]
+16:50: 
+16:50: User selected:
+16:50:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:50:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+16:50:   Audio: [no sound]
+
+16:51: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+16:51: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+16:51: Platform: Windows XP Service Pack 3 (Build 2600)
+16:51: DirectX version: 9.0
+16:51: 
+16:51: Scanning packages...
+16:51:   Registered 0 files in 0 package(s)
+16:51: Initializing scripting engine...
+16:51:   Script compiler bound successfuly
+16:51: Loading plugins...
+16:51:   wme_sample_pixel.dll
+16:51:   wme_snow.dll
+16:51: Loading string table...
+16:51:   51 strings loaded
+16:51: First run / crash recovery
+16:51: Enumerating Direct3D devices...
+16:51: Enumerating DirectSound devices...
+16:51: Game aspect ratio:    1.333333
+16:51: Monitor aspect ratio: 1.250000
+16:51: Game aspect ratio is the same as monitor aspect ratio.
+16:51: Backup resolution:  800 x 600
+16:51: 
+16:51: Available video devices:
+16:51:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:51:     Driver: igxprd32.dll 6.14.10.5218
+16:51:     Monitor: 0
+16:51: Available audio devices:
+16:51:   [no sound]
+16:51: 
+16:51: User selected:
+16:51:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:51:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+16:51:   Audio: [no sound]
+
+16:55: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+16:55: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+16:55: Platform: Windows XP Service Pack 3 (Build 2600)
+16:55: DirectX version: 9.0
+16:55: 
+16:55: Scanning packages...
+16:55:   Registered 0 files in 0 package(s)
+16:55: Initializing scripting engine...
+16:55:   Script compiler bound successfuly
+16:55: Loading plugins...
+16:55:   wme_sample_pixel.dll
+16:55:   wme_snow.dll
+16:55: Loading string table...
+16:55:   51 strings loaded
+16:55: First run / crash recovery
+16:55: Enumerating Direct3D devices...
+16:55: Enumerating DirectSound devices...
+16:55: Game aspect ratio:    1.333333
+16:55: Monitor aspect ratio: 1.250000
+16:55: Game aspect ratio is the same as monitor aspect ratio.
+16:55: Backup resolution:  800 x 600
+16:55: 
+16:55: Available video devices:
+16:55:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:55:     Driver: igxprd32.dll 6.14.10.5218
+16:55:     Monitor: 0
+16:55: Available audio devices:
+16:55:   [no sound]
+16:55: 
+16:55: User selected:
+16:55:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:55:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+16:55:   Audio: [no sound]

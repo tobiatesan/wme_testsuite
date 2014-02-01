@@ -3,6 +3,6 @@
 ////////////////////////////////////////////////////////////////////////////////
 on "LeftClick"
 {
-	Game.PlayTheora(movie); // , Type, X, Y, FreezeMusic, DropFrames, SubtitleFile)
+	Game.PlayTheora(movie, 1, 0, 0, true, true, subtitles); // , Type, X, Y, FreezeMusic, DropFrames, SubtitleFile)
 }
 

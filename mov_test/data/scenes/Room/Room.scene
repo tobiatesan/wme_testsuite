@@ -59,16 +59,32 @@ SCENE {
       NAME="play"
       CAPTION=""
       ACTIVE=TRUE
-      X=274
-      Y=266
+      X=115
+      Y=336
+      SCALABLE=FALSE
+      INTERACTIVE=TRUE
+      COLORABLE=FALSE
+      EDITOR_SELECTED=FALSE
+      WALK_TO_X=0
+      WALK_TO_Y=0
+      SCRIPT="scenes\Room\scr\play.script"
+      SPRITE="scenes\Room\play.bmp"
+    }
+
+    ENTITY {
+      NAME="playsub"
+      CAPTION=""
+      ACTIVE=TRUE
+      X=431
+      Y=336
       SCALABLE=FALSE
       INTERACTIVE=TRUE
       COLORABLE=FALSE
       EDITOR_SELECTED=TRUE
       WALK_TO_X=0
       WALK_TO_Y=0
-      SCRIPT="scenes\Room\scr\play.script"
-      SPRITE="scenes\Room\play.bmp"
+      SCRIPT="scenes\Room\scr\playsub.script"
+      SPRITE="scenes\Room\playsub.bmp"
     }
 
     REGION {
