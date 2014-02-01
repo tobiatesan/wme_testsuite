@@ -1,0 +1,10 @@
+#include "scripts\base.inc"
+
+var movie = "scenes\Room\movie.ogv";
+
+////////////////////////////////////////////////////////////////////////////////
+on "LeftClick"
+{
+	Game.PlayTheora(movie); // , Type, X, Y, FreezeMusic, DropFrames, SubtitleFile)
+}
+

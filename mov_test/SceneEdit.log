@@ -1,0 +1,163 @@
+
+15:25: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+15:25: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+15:25: Platform: Windows XP Service Pack 3 (Build 2600)
+15:25: DirectX version: 9.0
+15:25: 
+15:25: Scanning packages...
+15:25:   Registered 0 files in 0 package(s)
+15:25: Initializing scripting engine...
+15:25:   Script compiler bound successfuly
+15:25: Loading plugins...
+15:25:   wme_sample_pixel.dll
+15:25:   wme_snow.dll
+15:25: Scanning packages...
+15:25:   Registered 0 files in 0 package(s)
+15:25: Enumerating Direct3D devices...
+15:25: Enumerating DirectSound devices...
+15:25: Game aspect ratio:    -1.#IND00
+15:25: Monitor aspect ratio: 1.250000
+15:25: Game aspect ratio is the same as monitor aspect ratio.
+15:25: Backup resolution:  0 x 0
+15:25: 
+15:25: Available video devices:
+15:25:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+15:25:     Driver: igxprd32.dll 6.14.10.5218
+15:25:     Monitor: 0
+15:25: Available audio devices:
+15:25:   Primary Sound Driver
+15:25:   default
+15:25:   HDA Intel - CONEXANT Analog
+15:25:   /syseng0019/[no sound]
+15:25: Auto selecting devices for windowed mode:
+15:25:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+15:25:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+15:25:   Audio: Primary Sound Driver
+15:25: Maximum texture size: 8192x8192
+15:25: ----- Open file: 'C:\users\tobia\My Documents\WME projects\mov_test\data\scenes\Room\Room.scene' -----
+15:39: 
+15:39: Shutting down...
+15:39: Shutting down scripting engine
+15:39: ********** DEBUG LOG CLOSED ********************************************
+
+15:51: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+15:51: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+15:51: Platform: Windows XP Service Pack 3 (Build 2600)
+15:51: DirectX version: 9.0
+15:51: 
+15:51: Scanning packages...
+15:51:   Registered 0 files in 0 package(s)
+15:51: Initializing scripting engine...
+15:51:   Script compiler bound successfuly
+15:51: Loading plugins...
+15:51:   wme_sample_pixel.dll
+15:51:   wme_snow.dll
+15:51: Scanning packages...
+15:51:   Registered 0 files in 0 package(s)
+15:51: Enumerating Direct3D devices...
+15:51: Enumerating DirectSound devices...
+15:51: Game aspect ratio:    -1.#IND00
+15:51: Monitor aspect ratio: 1.250000
+15:51: Game aspect ratio is the same as monitor aspect ratio.
+15:51: Backup resolution:  0 x 0
+15:51: 
+15:51: Available video devices:
+15:51:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+15:51:     Driver: igxprd32.dll 6.14.10.5218
+15:51:     Monitor: 0
+15:51: Available audio devices:
+15:51:   /syseng0019/[no sound]
+15:51: Auto selecting devices for windowed mode:
+15:51:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+15:51:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+15:51:   Audio: /syseng0019/[no sound]
+15:51: Maximum texture size: 8192x8192
+15:51: ----- Open file: 'Z:\home\tobia\WME projects\mov_test\data\scenes\Room\Room.scene' -----
+
+15:54: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+15:54: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+15:54: Platform: Windows XP Service Pack 3 (Build 2600)
+15:54: DirectX version: 9.0
+15:54: 
+15:54: Scanning packages...
+15:54:   Registered 0 files in 0 package(s)
+15:54: Initializing scripting engine...
+15:54:   Script compiler bound successfuly
+15:54: Loading plugins...
+15:54:   wme_sample_pixel.dll
+15:54:   wme_snow.dll
+15:54: Scanning packages...
+15:54:   Registered 0 files in 0 package(s)
+15:54: Enumerating Direct3D devices...
+15:54: Enumerating DirectSound devices...
+15:54: Game aspect ratio:    -1.#IND00
+15:54: Monitor aspect ratio: 1.250000
+15:54: Game aspect ratio is the same as monitor aspect ratio.
+15:54: Backup resolution:  0 x 0
+15:54: 
+15:54: Available video devices:
+15:54:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+15:54:     Driver: igxprd32.dll 6.14.10.5218
+15:54:     Monitor: 0
+15:54: Available audio devices:
+15:54:   Primary Sound Driver
+15:54:   default
+15:54:   HDA Intel - CONEXANT Analog
+15:54:   /syseng0019/[no sound]
+15:54: Auto selecting devices for windowed mode:
+15:54:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+15:54:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+15:54:   Audio: Primary Sound Driver
+15:54: Maximum texture size: 8192x8192
+15:54: ----- Open file: 'Z:\home\tobia\WME projects\mov_test\data\scenes\Room\Room.scene' -----
+15:54: 
+15:54: Shutting down...
+15:54: Shutting down scripting engine
+15:54: ********** DEBUG LOG CLOSED ********************************************
+15:54: 
+15:54: Shutting down...
+15:54: Shutting down scripting engine
+15:54: ********** DEBUG LOG CLOSED ********************************************
+
+15:57: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+15:57: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+15:57: Platform: Windows XP Service Pack 3 (Build 2600)
+15:57: DirectX version: 9.0
+15:57: 
+15:57: Scanning packages...
+15:57:   Registered 0 files in 0 package(s)
+15:57: Initializing scripting engine...
+15:57:   Script compiler bound successfuly
+15:57: Loading plugins...
+15:57:   wme_sample_pixel.dll
+15:57:   wme_snow.dll
+15:57: Scanning packages...
+15:57:   Registered 0 files in 0 package(s)
+15:57: Enumerating Direct3D devices...
+15:57: Enumerating DirectSound devices...
+15:57: Game aspect ratio:    -1.#IND00
+15:57: Monitor aspect ratio: 1.250000
+15:57: Game aspect ratio is the same as monitor aspect ratio.
+15:57: Backup resolution:  0 x 0
+15:57: 
+15:57: Available video devices:
+15:57:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+15:57:     Driver: igxprd32.dll 6.14.10.5218
+15:57:     Monitor: 0
+15:57: Available audio devices:
+15:57:   /syseng0019/[no sound]
+15:57: Auto selecting devices for windowed mode:
+15:57:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+15:57:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+15:57:   Audio: /syseng0019/[no sound]
+15:57: Maximum texture size: 8192x8192
+15:57: ----- Open file: 'Z:\home\tobia\WME projects\mov_test\data\scenes\Room\Room.scene' -----
+16:04: Compiling script 'scenes\Room\scr\play.script'...
+16:04:   Error@line 3: Variable 'movie' is referenced but not defined
+16:04: Compiling script 'scenes\Room\scr\play.script'...
+16:04:   Error@line 8: Variable 'file' is referenced but not defined
+16:04: 
+16:04: Shutting down...
+16:04: Shutting down scripting engine
+16:04: CBSurfaceStorage warning: purging surface 'scenes\Room\play.bmp', usage:1
+16:04: ********** DEBUG LOG CLOSED ********************************************

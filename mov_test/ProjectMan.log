@@ -1,0 +1,131 @@
+
+14:26: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+14:26: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+14:26: Platform: Windows XP Service Pack 3 (Build 2600)
+14:26: DirectX version: 9.0
+14:26: 
+14:26: Scanning packages...
+14:26:   Registered 0 files in 0 package(s)
+14:26: Initializing scripting engine...
+14:26:   Script compiler bound successfuly
+14:26: Loading plugins...
+14:26:   wme_sample_pixel.dll
+14:26:   wme_snow.dll
+14:26: Scanning packages...
+14:26:   Registered 0 files in 0 package(s)
+14:26: Enumerating Direct3D devices...
+14:26: Enumerating DirectSound devices...
+14:26: Game aspect ratio:    -1.#IND00
+14:26: Monitor aspect ratio: 1.250000
+14:26: Game aspect ratio is the same as monitor aspect ratio.
+14:26: Backup resolution:  0 x 0
+14:26: 
+14:26: Available video devices:
+14:26:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+14:26:     Driver: igxprd32.dll 6.14.10.5218
+14:26:     Monitor: 0
+14:26: Available audio devices:
+14:26:   Primary Sound Driver
+14:26:   HDA Intel - Conexant Digital
+14:26:   [no sound]
+14:26: Auto selecting devices for windowed mode:
+14:26:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+14:26:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+14:26:   Audio: Primary Sound Driver
+14:26: Maximum texture size: 8192x8192
+14:26: ----- Open file: 'C:\users\tobia\My Documents\WME projects\mov_test\mov_test.wpr' -----
+14:26: Scanning packages...
+14:26:   Registered 0 files in 0 package(s)
+15:25: Error opening file 'scenes\Room\scr\scene_init.script'
+15:25: CScEngine::GetCompiledScript - error opening script 'scenes\Room\scr\scene_init.script'
+15:25: Error opening file 'scripts\scene.script'
+15:25: CScEngine::GetCompiledScript - error opening script 'scripts\scene.script'
+15:25: CBSprite::LoadFile failed for file 'scenes\Room\background.bmp'
+15:39: 
+15:39: Shutting down...
+15:39: Shutting down scripting engine
+15:39: ********** DEBUG LOG CLOSED ********************************************
+
+15:48: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+15:48: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+15:48: Platform: Windows XP Service Pack 3 (Build 2600)
+15:48: DirectX version: 9.0
+15:48: 
+15:48: Scanning packages...
+15:48:   Registered 0 files in 0 package(s)
+15:48: Initializing scripting engine...
+15:48:   Script compiler bound successfuly
+15:48: Loading plugins...
+15:48:   wme_sample_pixel.dll
+15:48:   wme_snow.dll
+15:48: Scanning packages...
+15:48:   Registered 0 files in 0 package(s)
+15:48: Enumerating Direct3D devices...
+15:48: Enumerating DirectSound devices...
+15:48: Game aspect ratio:    -1.#IND00
+15:48: Monitor aspect ratio: 1.250000
+15:48: Game aspect ratio is the same as monitor aspect ratio.
+15:48: Backup resolution:  0 x 0
+15:48: 
+15:48: Available video devices:
+15:48:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+15:48:     Driver: igxprd32.dll 6.14.10.5218
+15:48:     Monitor: 0
+15:48: Available audio devices:
+15:48:   Primary Sound Driver
+15:48:   HDA Intel - Conexant Digital
+15:48:   [no sound]
+15:48: Auto selecting devices for windowed mode:
+15:48:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+15:48:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+15:48:   Audio: Primary Sound Driver
+15:48: Maximum texture size: 8192x8192
+15:48: ----- Open file: 'Z:\home\tobia\WME projects\mov_test\mov_test.wpr' -----
+15:48: Scanning packages...
+15:48:   Registered 0 files in 0 package(s)
+15:54: 
+15:54: Shutting down...
+15:54: Shutting down scripting engine
+15:54: ********** DEBUG LOG CLOSED ********************************************
+
+15:57: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+15:57: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+15:57: Platform: Windows XP Service Pack 3 (Build 2600)
+15:57: DirectX version: 9.0
+15:57: 
+15:57: Scanning packages...
+15:57:   Registered 0 files in 0 package(s)
+15:57: Initializing scripting engine...
+15:57:   Script compiler bound successfuly
+15:57: Loading plugins...
+15:57:   wme_sample_pixel.dll
+15:57:   wme_snow.dll
+15:57: Scanning packages...
+15:57:   Registered 0 files in 0 package(s)
+15:57: Enumerating Direct3D devices...
+15:57: Enumerating DirectSound devices...
+15:57: Game aspect ratio:    -1.#IND00
+15:57: Monitor aspect ratio: 1.250000
+15:57: Game aspect ratio is the same as monitor aspect ratio.
+15:57: Backup resolution:  0 x 0
+15:57: 
+15:57: Available video devices:
+15:57:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+15:57:     Driver: igxprd32.dll 6.14.10.5218
+15:57:     Monitor: 0
+15:57: Available audio devices:
+15:57:   Primary Sound Driver
+15:57:   HDA Intel - Conexant Digital
+15:57:   [no sound]
+15:57: Auto selecting devices for windowed mode:
+15:57:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+15:57:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+15:57:   Audio: Primary Sound Driver
+15:57: Maximum texture size: 8192x8192
+15:57: ----- Open file: 'Z:\home\tobia\WME projects\mov_test\mov_test.wpr' -----
+15:57: Scanning packages...
+15:57:   Registered 0 files in 0 package(s)
+16:07: 
+16:07: Shutting down...
+16:07: Shutting down scripting engine
+16:07: ********** DEBUG LOG CLOSED ********************************************

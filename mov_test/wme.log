@@ -1,0 +1,42 @@
+
+16:05: ********** DEBUG LOG OPENED 01-02-2014 (Release Build) *****************
+16:05: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+16:05: Platform: Windows XP Service Pack 3 (Build 2600)
+16:05: DirectX version: 9.0
+16:05: 
+16:05: Scanning packages...
+16:05:   Registered 0 files in 0 package(s)
+16:05: Initializing scripting engine...
+16:05:   Script compiler bound successfuly
+16:05: Loading plugins...
+16:05:   wme_sample_pixel.dll
+16:05:   wme_snow.dll
+16:05: Loading string table...
+16:05:   51 strings loaded
+16:05: First run / crash recovery
+16:05: Enumerating Direct3D devices...
+16:05: Enumerating DirectSound devices...
+16:05: Game aspect ratio:    1.333333
+16:05: Monitor aspect ratio: 1.250000
+16:05: Game aspect ratio is the same as monitor aspect ratio.
+16:05: Backup resolution:  800 x 600
+16:05: 
+16:05: Available video devices:
+16:05:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:05:     Driver: igxprd32.dll 6.14.10.5218
+16:05:     Monitor: 0
+16:05: Available audio devices:
+16:05:   [no sound]
+16:05: 
+16:05: User selected:
+16:05:   Using requested resolution (800 x 600)
+16:05:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+16:05:          Windowed:no  Colors:32bit  T&L:no  Multisample:0
+16:05:   Audio: [no sound]
+16:06: Maximum texture size: 8192x8192
+16:06: Engine initialized in 259 ms
+16:06: 
+16:06: 
+16:06: Shutting down...
+16:06: Shutting down scripting engine
+16:06: ********** DEBUG LOG CLOSED ********************************************
