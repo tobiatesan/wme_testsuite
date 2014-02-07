@@ -167,3 +167,45 @@
 16:44: ----- Open file: 'Z:\home\tobia\Desktop\wme_testsuite\mov_test\mov_test.wpr' -----
 16:44: Scanning packages...
 16:44:   Registered 0 files in 0 package(s)
+01:26: 
+01:26: Shutting down...
+01:26: Shutting down scripting engine
+01:26: ********** DEBUG LOG CLOSED ********************************************
+
+23:12: ********** DEBUG LOG OPENED 07-02-2014 (Release Build) *****************
+23:12: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+23:12: Platform: Windows XP Service Pack 3 (Build 2600)
+23:12: DirectX version: 9.0
+23:12: 
+23:12: Scanning packages...
+23:12:   Registered 0 files in 0 package(s)
+23:12: Initializing scripting engine...
+23:12:   Script compiler bound successfuly
+23:12: Loading plugins...
+23:12:   wme_sample_pixel.dll
+23:12:   wme_snow.dll
+23:12: Scanning packages...
+23:12:   Registered 0 files in 0 package(s)
+23:12: Enumerating Direct3D devices...
+23:12: Enumerating DirectSound devices...
+23:12: Game aspect ratio:    -1.#IND00
+23:12: Monitor aspect ratio: 1.250000
+23:12: Game aspect ratio is the same as monitor aspect ratio.
+23:12: Backup resolution:  0 x 0
+23:12: 
+23:12: Available video devices:
+23:12:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+23:12:     Driver: igxprd32.dll 6.14.10.5218
+23:12:     Monitor: 0
+23:12: Available audio devices:
+23:12:   Primary Sound Driver
+23:12:   HDA Intel - Conexant Digital
+23:12:   [no sound]
+23:12: Auto selecting devices for windowed mode:
+23:12:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+23:12:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+23:12:   Audio: Primary Sound Driver
+23:12: Maximum texture size: 8192x8192
+23:12: ----- Open file: 'Z:\home\tobia\Desktop\wme_testsuite\mov_test\mov_test.wpr' -----
+23:12: Scanning packages...
+23:12:   Registered 0 files in 0 package(s)

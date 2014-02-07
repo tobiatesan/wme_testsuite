@@ -279,3 +279,37 @@
 16:55:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
 16:55:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
 16:55:   Audio: [no sound]
+
+23:29: ********** DEBUG LOG OPENED 07-02-2014 (Release Build) *****************
+23:29: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+23:29: Platform: Windows XP Service Pack 3 (Build 2600)
+23:29: DirectX version: 9.0
+23:29: 
+23:29: Scanning packages...
+23:29:   Registered 0 files in 0 package(s)
+23:29: Initializing scripting engine...
+23:29:   Script compiler bound successfuly
+23:29: Loading plugins...
+23:29:   wme_sample_pixel.dll
+23:29:   wme_snow.dll
+23:29: Loading string table...
+23:29:   51 strings loaded
+23:29: First run / crash recovery
+23:29: Enumerating Direct3D devices...
+23:29: Enumerating DirectSound devices...
+23:29: Game aspect ratio:    1.333333
+23:29: Monitor aspect ratio: 1.250000
+23:29: Game aspect ratio is the same as monitor aspect ratio.
+23:29: Backup resolution:  800 x 600
+23:29: 
+23:29: Available video devices:
+23:29:   Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+23:29:     Driver: igxprd32.dll 6.14.10.5218
+23:29:     Monitor: 0
+23:29: Available audio devices:
+23:29:   [no sound]
+23:29: 
+23:29: User selected:
+23:29:   Video: Mobile Intel(R) GM45 Express Chipset Family (accelerated)
+23:29:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+23:29:   Audio: [no sound]
