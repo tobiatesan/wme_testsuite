@@ -1,4 +1,4 @@
 wme_testsuite
 =============
 
-Test sutie for ScummVM:WME
+A test suite in WME geared towards the ScummVM implementation.
