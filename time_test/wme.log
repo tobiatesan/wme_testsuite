@@ -1,0 +1,615 @@
+
+00:18: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:18: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:18: Platform: Windows XP or higher  (Build 9200)
+00:18: DirectX version: 9.0
+00:18: 
+00:18: Scanning packages...
+00:18:   Registered 0 files in 0 package(s)
+00:18: Initializing scripting engine...
+00:18:   Script compiler bound successfuly
+00:18: Loading plugins...
+00:18:   wme_sample_pixel.dll
+00:18:   wme_snow.dll
+00:18: Loading string table...
+00:18:   51 strings loaded
+00:18: Enumerating Direct3D devices...
+00:18: Enumerating DirectSound devices...
+00:18: Game aspect ratio:    1.333333
+00:18: Monitor aspect ratio: 1.777778
+00:18: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+00:18:   -> Considering: 1280 x 720
+00:18:   -> Considering: 1280 x 768
+00:18:   -> Considering: 1280 x 800
+00:18:   -> Considering: 1360 x 768
+00:18:   -> Considering: 1440 x 900
+00:18:   -> Considering: 1600 x 900
+00:18:   -> Considering: 1680 x 1050
+00:18:   -> Considering: 1920 x 1080
+00:18: Optimal resolution: 1280 x 720
+00:18: Backup resolution:  1280 x 720
+00:18: 
+00:18: Available video devices:
+00:18:   Intel(R) HD Graphics 4600 (accelerated)
+00:18:     Driver: igdumdim32.dll 20.19.15.4835
+00:18:     Monitor: 0
+00:18: Available audio devices:
+00:18:   Первичный звуковой драйвер
+00:18:   Динамики (Realtek High Definition Audio)
+00:18:   [no sound]
+00:18: 
+00:18: User selected:
+00:18:   Video: Intel(R) HD Graphics 4600 (accelerated)
+00:18:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:18:   Audio: Первичный звуковой драйвер
+00:19: Maximum texture size: 8192x8192
+00:19: Engine initialized in 261 ms
+00:19: 
+00:19: 
+00:19: Shutting down...
+00:19: Shutting down scripting engine
+00:19: ********** DEBUG LOG CLOSED ********************************************
+
+00:21: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:21: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:21: Platform: Windows XP or higher  (Build 9200)
+00:21: DirectX version: 9.0
+00:21: 
+00:21: Scanning packages...
+00:21:   Registered 0 files in 0 package(s)
+00:21: Initializing scripting engine...
+00:21:   Script compiler bound successfuly
+00:21: Loading plugins...
+00:21:   wme_sample_pixel.dll
+00:21:   wme_snow.dll
+00:21: Loading string table...
+00:21:   51 strings loaded
+00:21: Enumerating Direct3D devices...
+00:21: Enumerating DirectSound devices...
+00:21: Game aspect ratio:    1.333333
+00:21: Monitor aspect ratio: 1.777778
+00:21: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+00:21:   -> Considering: 1280 x 720
+00:21:   -> Considering: 1280 x 768
+00:21:   -> Considering: 1280 x 800
+00:21:   -> Considering: 1360 x 768
+00:21:   -> Considering: 1440 x 900
+00:21:   -> Considering: 1600 x 900
+00:21:   -> Considering: 1680 x 1050
+00:21:   -> Considering: 1920 x 1080
+00:21: Optimal resolution: 1280 x 720
+00:21: Backup resolution:  1280 x 720
+00:21: 
+00:21: Available video devices:
+00:21:   Intel(R) HD Graphics 4600 (accelerated)
+00:21:     Driver: igdumdim32.dll 20.19.15.4835
+00:21:     Monitor: 0
+00:21: Available audio devices:
+00:21:   Первичный звуковой драйвер
+00:21:   Динамики (Realtek High Definition Audio)
+00:21:   [no sound]
+00:21: 
+00:21: User selected:
+00:21:   Video: Intel(R) HD Graphics 4600 (accelerated)
+00:21:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:21:   Audio: Первичный звуковой драйвер
+00:21: Maximum texture size: 8192x8192
+00:21: Engine initialized in 25 ms
+00:21: 
+00:21: CBSprite::LoadFile failed for file 'scenes\Room\images\clockbg.sprite'
+00:21: 
+00:21: Shutting down...
+00:21: Shutting down scripting engine
+00:21: ********** DEBUG LOG CLOSED ********************************************
+
+00:22: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:22: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:22: Platform: Windows XP or higher  (Build 9200)
+00:22: DirectX version: 9.0
+00:22: 
+00:22: Scanning packages...
+00:22:   Registered 0 files in 0 package(s)
+00:22: Initializing scripting engine...
+00:22:   Script compiler bound successfuly
+00:22: Loading plugins...
+00:22:   wme_sample_pixel.dll
+00:22:   wme_snow.dll
+00:22: Loading string table...
+00:22:   51 strings loaded
+00:22: Enumerating Direct3D devices...
+00:22: Enumerating DirectSound devices...
+00:22: Game aspect ratio:    1.333333
+00:22: Monitor aspect ratio: 1.777778
+00:22: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+00:22:   -> Considering: 1280 x 720
+00:22:   -> Considering: 1280 x 768
+00:22:   -> Considering: 1280 x 800
+00:22:   -> Considering: 1360 x 768
+00:22:   -> Considering: 1440 x 900
+00:22:   -> Considering: 1600 x 900
+00:22:   -> Considering: 1680 x 1050
+00:22:   -> Considering: 1920 x 1080
+00:22: Optimal resolution: 1280 x 720
+00:22: Backup resolution:  1280 x 720
+00:22: 
+00:22: Available video devices:
+00:22:   Intel(R) HD Graphics 4600 (accelerated)
+00:22:     Driver: igdumdim32.dll 20.19.15.4835
+00:22:     Monitor: 0
+00:22: Available audio devices:
+00:22:   Первичный звуковой драйвер
+00:22:   Динамики (Realtek High Definition Audio)
+00:22:   [no sound]
+00:22: 
+00:22: User selected:
+00:22:   Video: Intel(R) HD Graphics 4600 (accelerated)
+00:22:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:22:   Audio: Первичный звуковой драйвер
+00:22: Maximum texture size: 8192x8192
+00:22: Engine initialized in 25 ms
+00:22: 
+00:22: 
+00:22: Shutting down...
+00:22: Shutting down scripting engine
+00:22: ********** DEBUG LOG CLOSED ********************************************
+
+00:22: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:22: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:22: Platform: Windows XP or higher  (Build 9200)
+00:22: DirectX version: 9.0
+00:22: 
+00:22: Scanning packages...
+00:22:   Registered 0 files in 0 package(s)
+00:22: Initializing scripting engine...
+00:22:   Script compiler bound successfuly
+00:22: Loading plugins...
+00:22:   wme_sample_pixel.dll
+00:22:   wme_snow.dll
+00:22: Loading string table...
+00:22:   51 strings loaded
+00:22: Enumerating Direct3D devices...
+00:22: Enumerating DirectSound devices...
+00:22: Game aspect ratio:    1.333333
+00:22: Monitor aspect ratio: 1.777778
+00:22: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+00:22:   -> Considering: 1280 x 720
+00:22:   -> Considering: 1280 x 768
+00:22:   -> Considering: 1280 x 800
+00:22:   -> Considering: 1360 x 768
+00:22:   -> Considering: 1440 x 900
+00:22:   -> Considering: 1600 x 900
+00:22:   -> Considering: 1680 x 1050
+00:22:   -> Considering: 1920 x 1080
+00:22: Optimal resolution: 1280 x 720
+00:22: Backup resolution:  1280 x 720
+00:22: 
+00:22: Available video devices:
+00:22:   Intel(R) HD Graphics 4600 (accelerated)
+00:22:     Driver: igdumdim32.dll 20.19.15.4835
+00:22:     Monitor: 0
+00:22: Available audio devices:
+00:22:   Первичный звуковой драйвер
+00:22:   Динамики (Realtek High Definition Audio)
+00:22:   [no sound]
+00:22: 
+00:22: User selected:
+00:22:   Video: Intel(R) HD Graphics 4600 (accelerated)
+00:22:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:22:   Audio: Первичный звуковой драйвер
+00:22: Maximum texture size: 8192x8192
+00:22: Engine initialized in 24 ms
+00:22: 
+00:22: 
+00:22: Shutting down...
+00:22: Shutting down scripting engine
+00:22: ********** DEBUG LOG CLOSED ********************************************
+
+00:23: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:23: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:23: Platform: Windows XP or higher  (Build 9200)
+00:23: DirectX version: 9.0
+00:23: 
+00:23: Scanning packages...
+00:23:   Registered 0 files in 0 package(s)
+00:23: Initializing scripting engine...
+00:23:   Script compiler bound successfuly
+00:23: Loading plugins...
+00:23:   wme_sample_pixel.dll
+00:23:   wme_snow.dll
+00:23: Loading string table...
+00:23:   51 strings loaded
+00:23: Enumerating Direct3D devices...
+00:23: Enumerating DirectSound devices...
+00:23: Game aspect ratio:    1.333333
+00:23: Monitor aspect ratio: 1.777778
+00:23: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+00:23:   -> Considering: 1280 x 720
+00:23:   -> Considering: 1280 x 768
+00:23:   -> Considering: 1280 x 800
+00:23:   -> Considering: 1360 x 768
+00:23:   -> Considering: 1440 x 900
+00:23:   -> Considering: 1600 x 900
+00:23:   -> Considering: 1680 x 1050
+00:23:   -> Considering: 1920 x 1080
+00:23: Optimal resolution: 1280 x 720
+00:23: Backup resolution:  1280 x 720
+00:23: 
+00:23: Available video devices:
+00:23:   Intel(R) HD Graphics 4600 (accelerated)
+00:23:     Driver: igdumdim32.dll 20.19.15.4835
+00:23:     Monitor: 0
+00:23: Available audio devices:
+00:23:   Первичный звуковой драйвер
+00:23:   Динамики (Realtek High Definition Audio)
+00:23:   [no sound]
+00:23: 
+00:23: User selected:
+00:23:   Video: Intel(R) HD Graphics 4600 (accelerated)
+00:23:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:23:   Audio: Первичный звуковой драйвер
+00:23: Maximum texture size: 8192x8192
+00:23: Engine initialized in 23 ms
+00:23: 
+00:23: 
+00:23: Shutting down...
+00:23: Shutting down scripting engine
+00:23: ********** DEBUG LOG CLOSED ********************************************
+
+00:24: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:24: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:24: Platform: Windows XP or higher  (Build 9200)
+00:24: DirectX version: 9.0
+00:24: 
+00:24: Scanning packages...
+00:24:   Registered 0 files in 0 package(s)
+00:24: Initializing scripting engine...
+00:24:   Script compiler bound successfuly
+00:24: Loading plugins...
+00:24:   wme_sample_pixel.dll
+00:24:   wme_snow.dll
+00:24: Loading string table...
+00:24:   51 strings loaded
+00:24: Enumerating Direct3D devices...
+00:24: Enumerating DirectSound devices...
+00:24: Game aspect ratio:    1.333333
+00:24: Monitor aspect ratio: 1.777778
+00:24: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+00:24:   -> Considering: 1280 x 720
+00:24:   -> Considering: 1280 x 768
+00:24:   -> Considering: 1280 x 800
+00:24:   -> Considering: 1360 x 768
+00:24:   -> Considering: 1440 x 900
+00:24:   -> Considering: 1600 x 900
+00:24:   -> Considering: 1680 x 1050
+00:24:   -> Considering: 1920 x 1080
+00:24: Optimal resolution: 1280 x 720
+00:24: Backup resolution:  1280 x 720
+00:24: 
+00:24: Available video devices:
+00:24:   Intel(R) HD Graphics 4600 (accelerated)
+00:24:     Driver: igdumdim32.dll 20.19.15.4835
+00:24:     Monitor: 0
+00:24: Available audio devices:
+00:24:   Первичный звуковой драйвер
+00:24:   Динамики (Realtek High Definition Audio)
+00:24:   [no sound]
+00:24: 
+00:24: User selected:
+00:24:   Video: Intel(R) HD Graphics 4600 (accelerated)
+00:24:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:24:   Audio: Первичный звуковой драйвер
+00:24: Maximum texture size: 8192x8192
+00:24: Engine initialized in 26 ms
+00:24: 
+00:24: Compiling script 'scripts\scene.script'...
+00:24:   Error@line 12: syntax error
+00:24: 
+00:24: Shutting down...
+00:24: Shutting down scripting engine
+00:24: ********** DEBUG LOG CLOSED ********************************************
+
+00:24: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:24: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:24: Platform: Windows XP or higher  (Build 9200)
+00:24: DirectX version: 9.0
+00:24: 
+00:24: Scanning packages...
+00:24:   Registered 0 files in 0 package(s)
+00:24: Initializing scripting engine...
+00:24:   Script compiler bound successfuly
+00:24: Loading plugins...
+00:24:   wme_sample_pixel.dll
+00:24:   wme_snow.dll
+00:24: Loading string table...
+00:24:   51 strings loaded
+00:24: Enumerating Direct3D devices...
+00:24: Enumerating DirectSound devices...
+00:24: Game aspect ratio:    1.333333
+00:24: Monitor aspect ratio: 1.777778
+00:24: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+00:24:   -> Considering: 1280 x 720
+00:24:   -> Considering: 1280 x 768
+00:24:   -> Considering: 1280 x 800
+00:24:   -> Considering: 1360 x 768
+00:24:   -> Considering: 1440 x 900
+00:24:   -> Considering: 1600 x 900
+00:24:   -> Considering: 1680 x 1050
+00:24:   -> Considering: 1920 x 1080
+00:24: Optimal resolution: 1280 x 720
+00:24: Backup resolution:  1280 x 720
+00:24: 
+00:24: Available video devices:
+00:24:   Intel(R) HD Graphics 4600 (accelerated)
+00:24:     Driver: igdumdim32.dll 20.19.15.4835
+00:24:     Monitor: 0
+00:24: Available audio devices:
+00:24:   Первичный звуковой драйвер
+00:24:   Динамики (Realtek High Definition Audio)
+00:24:   [no sound]
+00:24: 
+00:24: User selected:
+00:24:   Video: Intel(R) HD Graphics 4600 (accelerated)
+00:24:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:24:   Audio: Первичный звуковой драйвер
+00:24: Maximum texture size: 8192x8192
+00:24: Engine initialized in 25 ms
+00:24: 
+00:24: 
+00:24: Shutting down...
+00:24: Shutting down scripting engine
+00:24: ********** DEBUG LOG CLOSED ********************************************
+
+00:26: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:26: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:26: Platform: Windows XP or higher  (Build 9200)
+00:26: DirectX version: 9.0
+00:26: 
+00:26: Scanning packages...
+00:26:   Registered 0 files in 0 package(s)
+00:26: Initializing scripting engine...
+00:26:   Script compiler bound successfuly
+00:26: Loading plugins...
+00:26:   wme_sample_pixel.dll
+00:26:   wme_snow.dll
+00:26: Loading string table...
+00:26:   51 strings loaded
+00:26: Enumerating Direct3D devices...
+00:26: Enumerating DirectSound devices...
+00:26: Game aspect ratio:    1.333333
+00:26: Monitor aspect ratio: 1.777778
+00:26: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+00:26:   -> Considering: 1280 x 720
+00:26:   -> Considering: 1280 x 768
+00:26:   -> Considering: 1280 x 800
+00:26:   -> Considering: 1360 x 768
+00:26:   -> Considering: 1440 x 900
+00:26:   -> Considering: 1600 x 900
+00:26:   -> Considering: 1680 x 1050
+00:26:   -> Considering: 1920 x 1080
+00:26: Optimal resolution: 1280 x 720
+00:26: Backup resolution:  1280 x 720
+00:26: 
+00:26: Available video devices:
+00:26:   Intel(R) HD Graphics 4600 (accelerated)
+00:26:     Driver: igdumdim32.dll 20.19.15.4835
+00:26:     Monitor: 0
+00:26: Available audio devices:
+00:26:   Первичный звуковой драйвер
+00:26:   Динамики (Realtek High Definition Audio)
+00:26:   [no sound]
+00:26: 
+00:26: User selected:
+00:26:   Video: Intel(R) HD Graphics 4600 (accelerated)
+00:26:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:26:   Audio: Первичный звуковой драйвер
+00:26: Maximum texture size: 8192x8192
+00:26: Engine initialized in 23 ms
+00:26: 
+00:27: 
+00:27: Shutting down...
+00:27: Shutting down scripting engine
+00:27: ********** DEBUG LOG CLOSED ********************************************
+
+00:28: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:28: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:28: Platform: Windows XP or higher  (Build 9200)
+00:28: DirectX version: 9.0
+00:28: 
+00:28: Scanning packages...
+00:28:   Registered 0 files in 0 package(s)
+00:28: Initializing scripting engine...
+00:28:   Script compiler bound successfuly
+00:28: Loading plugins...
+00:28:   wme_sample_pixel.dll
+00:28:   wme_snow.dll
+00:28: Loading string table...
+00:28:   51 strings loaded
+00:28: Enumerating Direct3D devices...
+00:28: Enumerating DirectSound devices...
+00:28: Game aspect ratio:    1.333333
+00:28: Monitor aspect ratio: 1.777778
+00:28: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+00:28:   -> Considering: 1280 x 720
+00:28:   -> Considering: 1280 x 768
+00:28:   -> Considering: 1280 x 800
+00:28:   -> Considering: 1360 x 768
+00:28:   -> Considering: 1440 x 900
+00:28:   -> Considering: 1600 x 900
+00:28:   -> Considering: 1680 x 1050
+00:28:   -> Considering: 1920 x 1080
+00:28: Optimal resolution: 1280 x 720
+00:28: Backup resolution:  1280 x 720
+00:28: 
+00:28: Available video devices:
+00:28:   Intel(R) HD Graphics 4600 (accelerated)
+00:28:     Driver: igdumdim32.dll 20.19.15.4835
+00:28:     Monitor: 0
+00:28: Available audio devices:
+00:28:   Первичный звуковой драйвер
+00:28:   Динамики (Realtek High Definition Audio)
+00:28:   [no sound]
+00:28: 
+00:28: User selected:
+00:28:   Video: Intel(R) HD Graphics 4600 (accelerated)
+00:28:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:28:   Audio: Первичный звуковой драйвер
+00:28: Maximum texture size: 8192x8192
+00:28: Engine initialized in 24 ms
+00:28: 
+00:28: 
+00:28: Shutting down...
+00:28: Shutting down scripting engine
+00:28: ********** DEBUG LOG CLOSED ********************************************
+
+00:34: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:34: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:34: Platform: Windows XP or higher  (Build 9200)
+00:34: DirectX version: 9.0
+00:34: 
+00:34: Scanning packages...
+00:34:   Registered 0 files in 0 package(s)
+00:34: Initializing scripting engine...
+00:34:   Script compiler bound successfuly
+00:34: Loading plugins...
+00:34:   wme_sample_pixel.dll
+00:34:   wme_snow.dll
+00:34: Loading string table...
+00:34:   51 strings loaded
+00:34: Enumerating Direct3D devices...
+00:34: Enumerating DirectSound devices...
+00:34: Game aspect ratio:    1.333333
+00:34: Monitor aspect ratio: 1.777778
+00:34: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+00:34:   -> Considering: 1280 x 720
+00:34:   -> Considering: 1280 x 768
+00:34:   -> Considering: 1280 x 800
+00:34:   -> Considering: 1360 x 768
+00:34:   -> Considering: 1440 x 900
+00:34:   -> Considering: 1600 x 900
+00:34:   -> Considering: 1680 x 1050
+00:34:   -> Considering: 1920 x 1080
+00:34: Optimal resolution: 1280 x 720
+00:34: Backup resolution:  1280 x 720
+00:34: 
+00:34: Available video devices:
+00:34:   Intel(R) HD Graphics 4600 (accelerated)
+00:34:     Driver: igdumdim32.dll 20.19.15.4835
+00:34:     Monitor: 0
+00:34: Available audio devices:
+00:34:   Первичный звуковой драйвер
+00:34:   Динамики (Realtek High Definition Audio)
+00:34:   [no sound]
+00:34: 
+00:34: User selected:
+00:34:   Video: Intel(R) HD Graphics 4600 (accelerated)
+00:34:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:34:   Audio: Первичный звуковой драйвер
+00:34: Maximum texture size: 8192x8192
+00:34: Engine initialized in 24 ms
+00:34: 
+00:34: 
+00:34: Shutting down...
+00:34: Shutting down scripting engine
+00:34: ********** DEBUG LOG CLOSED ********************************************
+
+00:35: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:35: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:35: Platform: Windows XP or higher  (Build 9200)
+00:35: DirectX version: 9.0
+00:35: 
+00:35: Scanning packages...
+00:35:   Registered 0 files in 0 package(s)
+00:35: Initializing scripting engine...
+00:35:   Script compiler bound successfuly
+00:35: Loading plugins...
+00:35:   wme_sample_pixel.dll
+00:35:   wme_snow.dll
+00:35: Loading string table...
+00:35:   51 strings loaded
+00:35: Enumerating Direct3D devices...
+00:35: Enumerating DirectSound devices...
+00:35: Game aspect ratio:    1.333333
+00:35: Monitor aspect ratio: 1.777778
+00:35: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+00:35:   -> Considering: 1280 x 720
+00:35:   -> Considering: 1280 x 768
+00:35:   -> Considering: 1280 x 800
+00:35:   -> Considering: 1360 x 768
+00:35:   -> Considering: 1440 x 900
+00:35:   -> Considering: 1600 x 900
+00:35:   -> Considering: 1680 x 1050
+00:35:   -> Considering: 1920 x 1080
+00:35: Optimal resolution: 1280 x 720
+00:35: Backup resolution:  1280 x 720
+00:35: 
+00:35: Available video devices:
+00:35:   Intel(R) HD Graphics 4600 (accelerated)
+00:35:     Driver: igdumdim32.dll 20.19.15.4835
+00:35:     Monitor: 0
+00:35: Available audio devices:
+00:35:   Первичный звуковой драйвер
+00:35:   Динамики (Realtek High Definition Audio)
+00:35:   [no sound]
+00:35: 
+00:35: User selected:
+00:35:   Video: Intel(R) HD Graphics 4600 (accelerated)
+00:35:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:35:   Audio: Первичный звуковой драйвер
+00:35: Maximum texture size: 8192x8192
+00:35: Engine initialized in 23 ms
+00:35: 
+00:35: 
+00:35: Shutting down...
+00:35: Shutting down scripting engine
+00:35: ********** DEBUG LOG CLOSED ********************************************
+
+00:36: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:36: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+00:36: Platform: Windows XP or higher  (Build 9200)
+00:36: DirectX version: 9.0
+00:36: 
+00:36: Scanning packages...
+00:36:   Registered 0 files in 0 package(s)
+00:36: Initializing scripting engine...
+00:36:   Script compiler bound successfuly
+00:36: Loading plugins...
+00:36:   wme_sample_pixel.dll
+00:36:   wme_snow.dll
+00:36: Loading string table...
+00:36:   51 strings loaded
+00:36: Enumerating Direct3D devices...
+00:36: Enumerating DirectSound devices...
+00:36: Game aspect ratio:    1.333333
+00:36: Monitor aspect ratio: 1.777778
+00:36: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+00:36:   -> Considering: 1280 x 720
+00:36:   -> Considering: 1280 x 768
+00:36:   -> Considering: 1280 x 800
+00:36:   -> Considering: 1360 x 768
+00:36:   -> Considering: 1440 x 900
+00:36:   -> Considering: 1600 x 900
+00:36:   -> Considering: 1680 x 1050
+00:36:   -> Considering: 1920 x 1080
+00:36: Optimal resolution: 1280 x 720
+00:36: Backup resolution:  1280 x 720
+00:36: 
+00:36: Available video devices:
+00:36:   Intel(R) HD Graphics 4600 (accelerated)
+00:36:     Driver: igdumdim32.dll 20.19.15.4835
+00:36:     Monitor: 0
+00:36: Available audio devices:
+00:36:   Первичный звуковой драйвер
+00:36:   Динамики (Realtek High Definition Audio)
+00:36:   [no sound]
+00:36: 
+00:36: User selected:
+00:36:   Video: Intel(R) HD Graphics 4600 (accelerated)
+00:36:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+00:36:   Audio: Первичный звуковой драйвер
+00:36: Maximum texture size: 8192x8192
+00:36: Engine initialized in 24 ms
+00:36: 
+00:36: 
+00:36: Shutting down...
+00:36: Shutting down scripting engine
+00:36: ********** DEBUG LOG CLOSED ********************************************

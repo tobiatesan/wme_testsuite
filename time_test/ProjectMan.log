@@ -1,0 +1,38 @@
+
+00:10: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+00:10: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+00:10: Platform: Windows XP or higher  (Build 9200)
+00:10: DirectX version: 9.0
+00:10: 
+00:10: Scanning packages...
+00:10:   Registered 0 files in 0 package(s)
+00:10: Initializing scripting engine...
+00:10:   Script compiler bound successfuly
+00:10: Loading plugins...
+00:10:   wme_sample_pixel.dll
+00:10:   wme_snow.dll
+00:10: Scanning packages...
+00:10:   Registered 0 files in 0 package(s)
+00:10: Enumerating Direct3D devices...
+00:10: Enumerating DirectSound devices...
+00:10: Game aspect ratio:    -1.#IND00
+00:10: Monitor aspect ratio: 1.777778
+00:10: Game aspect ratio is the same as monitor aspect ratio.
+00:10: Backup resolution:  0 x 0
+00:10: 
+00:10: Available video devices:
+00:10:   NVIDIA GeForce GTX 765M (accelerated)
+00:10:     Driver: nvldumd.dll 22.21.13.8205
+00:10:     Monitor: 0
+00:10: Available audio devices:
+00:10:   Первичный звуковой драйвер
+00:10:   Динамики (Realtek High Definition Audio)
+00:10:   [no sound]
+00:10: Auto selecting devices for windowed mode:
+00:10:   Video: NVIDIA GeForce GTX 765M (accelerated)
+00:10:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+00:10:   Audio: Первичный звуковой драйвер
+00:10: Maximum texture size: 16384x16384
+00:10: ----- Open file: 'D:\GitHub\wme_testsuite\time_test\time_test.wpr' -----
+00:10: Scanning packages...
+00:10:   Registered 0 files in 0 package(s)
