@@ -1,0 +1,71 @@
+
+17:21: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+17:21: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+17:21: Platform: Windows XP or higher  (Build 9200)
+17:21: DirectX version: 9.0
+17:21: 
+17:21: Scanning packages...
+17:21:   Registered 0 files in 0 package(s)
+17:21: Initializing scripting engine...
+17:21:   Script compiler bound successfuly
+17:21: Loading plugins...
+17:21:   wme_sample_pixel.dll
+17:21:   wme_snow.dll
+17:21: Loading string table...
+17:21:   51 strings loaded
+17:21: Enumerating Direct3D devices...
+17:21: Enumerating DirectSound devices...
+17:21: Game aspect ratio:    1.333333
+17:21: Monitor aspect ratio: 1.777778
+17:21: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+17:21:   -> Considering: 1280 x 720
+17:21:   -> Considering: 1280 x 768
+17:21:   -> Considering: 1280 x 800
+17:21:   -> Considering: 1360 x 768
+17:21:   -> Considering: 1440 x 900
+17:21:   -> Considering: 1600 x 900
+17:21:   -> Considering: 1680 x 1050
+17:21:   -> Considering: 1920 x 1080
+17:21: Optimal resolution: 1280 x 720
+17:21: Backup resolution:  1280 x 720
+17:21: 
+17:21: Available video devices:
+17:21:   Intel(R) HD Graphics 4600 (accelerated)
+17:21:     Driver: igdumdim32.dll 20.19.15.4835
+17:21:     Monitor: 0
+17:21: Available audio devices:
+17:21:   Первичный звуковой драйвер
+17:21:   Динамики (Realtek High Definition Audio)
+17:21:   [no sound]
+17:21: 
+17:21: User selected:
+17:21:   Video: Intel(R) HD Graphics 4600 (accelerated)
+17:21:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+17:21:   Audio: Первичный звуковой драйвер
+17:21: Maximum texture size: 8192x8192
+17:21: Engine initialized in 85 ms
+17:21: 
+17:21: Runtime error. Script 'scripts\game.script', line 127
+17:21:   Call to undefined method 'StopWalking'. Ignored.
+17:21: Runtime error. Script 'scripts\game.script', line 127
+17:21:   Call to undefined method 'StopWalking'. Ignored.
+17:21: Runtime error. Script 'scripts\game.script', line 127
+17:21:   Call to undefined method 'StopWalking'. Ignored.
+17:21: Runtime error. Script 'scripts\game.script', line 127
+17:21:   Call to undefined method 'StopWalking'. Ignored.
+17:21: Runtime error. Script 'scripts\game.script', line 127
+17:21:   Call to undefined method 'StopWalking'. Ignored.
+17:21: Runtime error. Script 'scripts\game.script', line 127
+17:21:   Call to undefined method 'StopWalking'. Ignored.
+17:21: Runtime error. Script 'scripts\game.script', line 127
+17:21:   Call to undefined method 'StopWalking'. Ignored.
+17:22: Runtime error. Script 'scripts\game.script', line 127
+17:22:   Call to undefined method 'StopWalking'. Ignored.
+17:22: Runtime error. Script 'scripts\game.script', line 127
+17:22:   Call to undefined method 'StopWalking'. Ignored.
+17:22: Runtime error. Script 'scripts\game.script', line 127
+17:22:   Call to undefined method 'StopWalking'. Ignored.
+17:22: 
+17:22: Shutting down...
+17:22: Shutting down scripting engine
+17:22: ********** DEBUG LOG CLOSED ********************************************
