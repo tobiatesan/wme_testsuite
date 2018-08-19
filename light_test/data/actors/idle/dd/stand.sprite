@@ -1,0 +1,11 @@
+; $EDITOR_PROJECT_ROOT_DIR$ ..\..\..\..\
+
+SPRITE
+{
+  LOOPING = FALSE
+
+  FRAME{
+    IMAGE = "actors\idle\dd\00.png"
+    HOTSPOT {100,180}
+  }
+}

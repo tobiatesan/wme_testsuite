@@ -1,0 +1,2385 @@
+
+17:45: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+17:45: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+17:45: Platform: Windows XP or higher  (Build 9200)
+17:45: DirectX version: 9.0
+17:45: 
+17:45: Scanning packages...
+17:45:   Registered 0 files in 0 package(s)
+17:45: Initializing scripting engine...
+17:45:   Script compiler bound successfuly
+17:45: Loading plugins...
+17:45:   wme_sample_pixel.dll
+17:45:   wme_snow.dll
+17:45: Loading string table...
+17:45:   51 strings loaded
+17:45: Enumerating Direct3D devices...
+17:45: Enumerating DirectSound devices...
+17:45: Game aspect ratio:    1.333333
+17:45: Monitor aspect ratio: 1.777778
+17:45: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+17:45:   -> Considering: 1280 x 720
+17:45:   -> Considering: 1280 x 768
+17:45:   -> Considering: 1280 x 800
+17:45:   -> Considering: 1360 x 768
+17:45:   -> Considering: 1440 x 900
+17:45:   -> Considering: 1600 x 900
+17:45:   -> Considering: 1680 x 1050
+17:45:   -> Considering: 1920 x 1080
+17:45: Optimal resolution: 1280 x 720
+17:45: Backup resolution:  1280 x 720
+17:45: 
+17:45: Available video devices:
+17:45:   Intel(R) HD Graphics 4600 (accelerated)
+17:45:     Driver: igdumdim32.dll 20.19.15.4835
+17:45:     Monitor: 0
+17:45: Available audio devices:
+17:45:   Первичный звуковой драйвер
+17:45:   Динамики (Realtek High Definition Audio)
+17:45:   [no sound]
+17:45: 
+17:45: User selected:
+17:45:   Video: Intel(R) HD Graphics 4600 (accelerated)
+17:45:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+17:45:   Audio: Первичный звуковой драйвер
+17:45: Maximum texture size: 8192x8192
+17:45: Engine initialized in 46 ms
+17:45: 
+17:45: Error opening file 'actors\test\test.actor'
+17:45: CAdActor::LoadFile failed for file 'actors\test\test.actor'
+17:45: Runtime error. Script 'scenes\Room\scr\scene_init.script', line 5
+17:45:   Call to undefined method 'SkipTo'. Ignored.
+17:45: Runtime error. Script 'scripts\scene.script', line 7
+17:45:   Call to undefined method 'GoTo'. Ignored.
+17:45: Runtime error. Script 'scripts\scene.script', line 7
+17:45:   Call to undefined method 'GoTo'. Ignored.
+17:45: 
+17:45: Shutting down...
+17:45: Shutting down scripting engine
+17:45: ********** DEBUG LOG CLOSED ********************************************
+
+17:46: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+17:46: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+17:46: Platform: Windows XP or higher  (Build 9200)
+17:46: DirectX version: 9.0
+17:46: 
+17:46: Scanning packages...
+17:46:   Registered 0 files in 0 package(s)
+17:46: Initializing scripting engine...
+17:46:   Script compiler bound successfuly
+17:46: Loading plugins...
+17:46:   wme_sample_pixel.dll
+17:46:   wme_snow.dll
+17:46: Loading string table...
+17:46:   51 strings loaded
+17:46: Enumerating Direct3D devices...
+17:46: Enumerating DirectSound devices...
+17:46: Game aspect ratio:    1.333333
+17:46: Monitor aspect ratio: 1.777778
+17:46: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+17:46:   -> Considering: 1280 x 720
+17:46:   -> Considering: 1280 x 768
+17:46:   -> Considering: 1280 x 800
+17:46:   -> Considering: 1360 x 768
+17:46:   -> Considering: 1440 x 900
+17:46:   -> Considering: 1600 x 900
+17:46:   -> Considering: 1680 x 1050
+17:46:   -> Considering: 1920 x 1080
+17:46: Optimal resolution: 1280 x 720
+17:46: Backup resolution:  1280 x 720
+17:46: 
+17:46: Available video devices:
+17:46:   Intel(R) HD Graphics 4600 (accelerated)
+17:46:     Driver: igdumdim32.dll 20.19.15.4835
+17:46:     Monitor: 0
+17:46: Available audio devices:
+17:46:   Первичный звуковой драйвер
+17:46:   Динамики (Realtek High Definition Audio)
+17:46:   [no sound]
+17:46: 
+17:46: User selected:
+17:46:   Video: Intel(R) HD Graphics 4600 (accelerated)
+17:46:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+17:46:   Audio: Первичный звуковой драйвер
+17:47: Maximum texture size: 8192x8192
+17:47: Engine initialized in 45 ms
+17:47: 
+17:47: CBSprite::LoadFile failed for file 'actors\idle\ll\talk.sprite'
+17:47: CBSprite::LoadFile failed for file 'actors\idle\rr\talk.sprite'
+17:47: CBSprite::LoadFile failed for file 'actors\idle\uu\talk.sprite'
+17:47: CBSprite::LoadFile failed for file 'actors\idle\dd\talk.sprite'
+17:47: CBSprite::LoadFile failed for file 'actors\idle\ul\talk.sprite'
+17:47: CBSprite::LoadFile failed for file 'actors\idle\ur\talk.sprite'
+17:47: CBSprite::LoadFile failed for file 'actors\idle\dl\talk.sprite'
+17:47: CBSprite::LoadFile failed for file 'actors\idle\dr\talk.sprite'
+17:47: 
+17:47: Shutting down...
+17:47: Shutting down scripting engine
+17:47: ********** DEBUG LOG CLOSED ********************************************
+
+17:52: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+17:52: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+17:52: Platform: Windows XP or higher  (Build 9200)
+17:52: DirectX version: 9.0
+17:52: 
+17:52: Scanning packages...
+17:52:   Registered 0 files in 0 package(s)
+17:52: Initializing scripting engine...
+17:52:   Script compiler bound successfuly
+17:52: Loading plugins...
+17:52:   wme_sample_pixel.dll
+17:52:   wme_snow.dll
+17:52: Loading string table...
+17:52:   51 strings loaded
+17:52: Enumerating Direct3D devices...
+17:52: Enumerating DirectSound devices...
+17:52: Game aspect ratio:    1.333333
+17:52: Monitor aspect ratio: 1.777778
+17:52: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+17:52:   -> Considering: 1280 x 720
+17:52:   -> Considering: 1280 x 768
+17:52:   -> Considering: 1280 x 800
+17:52:   -> Considering: 1360 x 768
+17:52:   -> Considering: 1440 x 900
+17:52:   -> Considering: 1600 x 900
+17:52:   -> Considering: 1680 x 1050
+17:52:   -> Considering: 1920 x 1080
+17:52: Optimal resolution: 1280 x 720
+17:52: Backup resolution:  1280 x 720
+17:52: 
+17:52: Available video devices:
+17:52:   Intel(R) HD Graphics 4600 (accelerated)
+17:52:     Driver: igdumdim32.dll 20.19.15.4835
+17:52:     Monitor: 0
+17:52: Available audio devices:
+17:52:   Первичный звуковой драйвер
+17:52:   Динамики (Realtek High Definition Audio)
+17:52:   [no sound]
+17:52: 
+17:52: User selected:
+17:52:   Video: Intel(R) HD Graphics 4600 (accelerated)
+17:52:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+17:52:   Audio: Первичный звуковой драйвер
+17:52: Maximum texture size: 8192x8192
+17:52: Engine initialized in 24 ms
+17:52: 
+17:52: CBSprite::LoadFile failed for file 'actors\idle\ur\stand.sprite'
+17:52: CBSprite::LoadFile failed for file 'actors\idle\dl\stand.sprite'
+17:52: CBSprite::LoadFile failed for file 'actors\idle\dr\stand.sprite'
+17:52: CBSprite::LoadFile failed for file 'actors\idle\dd\talk.sprite'
+17:52: CBSprite::LoadFile failed for file 'actors\idle\dd\talk.sprite'
+17:52: CBSprite::LoadFile failed for file 'actors\idle\dd\talk.sprite'
+17:52: CBSprite::LoadFile failed for file 'actors\idle\dd\talk.sprite'
+17:52: CBSprite::LoadFile failed for file 'actors\idle\dd\talk.sprite'
+17:52: CBSprite::LoadFile failed for file 'actors\idle\dd\talk.sprite'
+17:52: CBSprite::LoadFile failed for file 'actors\idle\dd\talk.sprite'
+17:52: CBSprite::LoadFile failed for file 'actors\idle\dd\talk.sprite'
+17:53: 
+17:53: Shutting down...
+17:53: Shutting down scripting engine
+17:53: ********** DEBUG LOG CLOSED ********************************************
+
+17:53: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+17:53: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+17:53: Platform: Windows XP or higher  (Build 9200)
+17:53: DirectX version: 9.0
+17:53: 
+17:53: Scanning packages...
+17:53:   Registered 0 files in 0 package(s)
+17:53: Initializing scripting engine...
+17:53:   Script compiler bound successfuly
+17:53: Loading plugins...
+17:53:   wme_sample_pixel.dll
+17:53:   wme_snow.dll
+17:53: Loading string table...
+17:53:   51 strings loaded
+17:53: Enumerating Direct3D devices...
+17:53: Enumerating DirectSound devices...
+17:53: Game aspect ratio:    1.333333
+17:53: Monitor aspect ratio: 1.777778
+17:53: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+17:53:   -> Considering: 1280 x 720
+17:53:   -> Considering: 1280 x 768
+17:53:   -> Considering: 1280 x 800
+17:53:   -> Considering: 1360 x 768
+17:53:   -> Considering: 1440 x 900
+17:53:   -> Considering: 1600 x 900
+17:53:   -> Considering: 1680 x 1050
+17:53:   -> Considering: 1920 x 1080
+17:53: Optimal resolution: 1280 x 720
+17:53: Backup resolution:  1280 x 720
+17:53: 
+17:53: Available video devices:
+17:53:   Intel(R) HD Graphics 4600 (accelerated)
+17:53:     Driver: igdumdim32.dll 20.19.15.4835
+17:53:     Monitor: 0
+17:53: Available audio devices:
+17:53:   Первичный звуковой драйвер
+17:53:   Динамики (Realtek High Definition Audio)
+17:53:   [no sound]
+17:53: 
+17:53: User selected:
+17:53:   Video: Intel(R) HD Graphics 4600 (accelerated)
+17:53:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+17:53:   Audio: Первичный звуковой драйвер
+17:53: Maximum texture size: 8192x8192
+17:53: Engine initialized in 23 ms
+17:53: 
+17:53: CBSprite::LoadFile failed for file 'actors\idle\ur\stand.sprite'
+17:53: CBSprite::LoadFile failed for file 'actors\idle\dl\stand.sprite'
+17:53: CBSprite::LoadFile failed for file 'actors\idle\dr\stand.sprite'
+17:53: 
+17:53: Shutting down...
+17:53: Shutting down scripting engine
+17:53: ********** DEBUG LOG CLOSED ********************************************
+
+17:54: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+17:54: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+17:54: Platform: Windows XP or higher  (Build 9200)
+17:54: DirectX version: 9.0
+17:54: 
+17:54: Scanning packages...
+17:54:   Registered 0 files in 0 package(s)
+17:54: Initializing scripting engine...
+17:54:   Script compiler bound successfuly
+17:54: Loading plugins...
+17:54:   wme_sample_pixel.dll
+17:54:   wme_snow.dll
+17:54: Loading string table...
+17:54:   51 strings loaded
+17:54: Enumerating Direct3D devices...
+17:54: Enumerating DirectSound devices...
+17:54: Game aspect ratio:    1.333333
+17:54: Monitor aspect ratio: 1.777778
+17:54: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+17:54:   -> Considering: 1280 x 720
+17:54:   -> Considering: 1280 x 768
+17:54:   -> Considering: 1280 x 800
+17:54:   -> Considering: 1360 x 768
+17:54:   -> Considering: 1440 x 900
+17:54:   -> Considering: 1600 x 900
+17:54:   -> Considering: 1680 x 1050
+17:54:   -> Considering: 1920 x 1080
+17:54: Optimal resolution: 1280 x 720
+17:54: Backup resolution:  1280 x 720
+17:54: 
+17:54: Available video devices:
+17:54:   Intel(R) HD Graphics 4600 (accelerated)
+17:54:     Driver: igdumdim32.dll 20.19.15.4835
+17:54:     Monitor: 0
+17:54: Available audio devices:
+17:54:   Первичный звуковой драйвер
+17:54:   Динамики (Realtek High Definition Audio)
+17:54:   [no sound]
+17:54: 
+17:54: User selected:
+17:54:   Video: Intel(R) HD Graphics 4600 (accelerated)
+17:54:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+17:54:   Audio: Первичный звуковой драйвер
+17:54: Maximum texture size: 8192x8192
+17:54: Engine initialized in 20 ms
+17:54: 
+17:54: 
+17:54: Shutting down...
+17:54: Shutting down scripting engine
+17:54: ********** DEBUG LOG CLOSED ********************************************
+
+17:55: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+17:55: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+17:55: Platform: Windows XP or higher  (Build 9200)
+17:55: DirectX version: 9.0
+17:55: 
+17:55: Scanning packages...
+17:55:   Registered 0 files in 0 package(s)
+17:55: Initializing scripting engine...
+17:55:   Script compiler bound successfuly
+17:55: Loading plugins...
+17:55:   wme_sample_pixel.dll
+17:55:   wme_snow.dll
+17:55: Loading string table...
+17:55:   51 strings loaded
+17:55: Enumerating Direct3D devices...
+17:55: Enumerating DirectSound devices...
+17:55: Game aspect ratio:    1.333333
+17:55: Monitor aspect ratio: 1.777778
+17:55: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+17:55:   -> Considering: 1280 x 720
+17:55:   -> Considering: 1280 x 768
+17:55:   -> Considering: 1280 x 800
+17:55:   -> Considering: 1360 x 768
+17:55:   -> Considering: 1440 x 900
+17:55:   -> Considering: 1600 x 900
+17:55:   -> Considering: 1680 x 1050
+17:55:   -> Considering: 1920 x 1080
+17:55: Optimal resolution: 1280 x 720
+17:55: Backup resolution:  1280 x 720
+17:55: 
+17:55: Available video devices:
+17:55:   Intel(R) HD Graphics 4600 (accelerated)
+17:55:     Driver: igdumdim32.dll 20.19.15.4835
+17:55:     Monitor: 0
+17:55: Available audio devices:
+17:55:   Первичный звуковой драйвер
+17:55:   Динамики (Realtek High Definition Audio)
+17:55:   [no sound]
+17:55: 
+17:55: User selected:
+17:55:   Video: Intel(R) HD Graphics 4600 (accelerated)
+17:55:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+17:55:   Audio: Первичный звуковой драйвер
+17:55: Maximum texture size: 8192x8192
+17:55: Engine initialized in 24 ms
+17:55: 
+17:55: 
+17:55: Shutting down...
+17:55: Shutting down scripting engine
+17:55: ********** DEBUG LOG CLOSED ********************************************
+
+17:55: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+17:55: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+17:55: Platform: Windows XP or higher  (Build 9200)
+17:55: DirectX version: 9.0
+17:55: 
+17:55: Scanning packages...
+17:55:   Registered 0 files in 0 package(s)
+17:55: Initializing scripting engine...
+17:55:   Script compiler bound successfuly
+17:55: Loading plugins...
+17:55:   wme_sample_pixel.dll
+17:55:   wme_snow.dll
+17:55: Loading string table...
+17:55:   51 strings loaded
+17:55: Enumerating Direct3D devices...
+17:55: Enumerating DirectSound devices...
+17:55: Game aspect ratio:    1.333333
+17:55: Monitor aspect ratio: 1.777778
+17:55: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+17:55:   -> Considering: 1280 x 720
+17:55:   -> Considering: 1280 x 768
+17:55:   -> Considering: 1280 x 800
+17:55:   -> Considering: 1360 x 768
+17:55:   -> Considering: 1440 x 900
+17:55:   -> Considering: 1600 x 900
+17:55:   -> Considering: 1680 x 1050
+17:55:   -> Considering: 1920 x 1080
+17:55: Optimal resolution: 1280 x 720
+17:55: Backup resolution:  1280 x 720
+17:55: 
+17:55: Available video devices:
+17:55:   Intel(R) HD Graphics 4600 (accelerated)
+17:55:     Driver: igdumdim32.dll 20.19.15.4835
+17:55:     Monitor: 0
+17:55: Available audio devices:
+17:55:   Первичный звуковой драйвер
+17:55:   Динамики (Realtek High Definition Audio)
+17:55:   [no sound]
+17:55: 
+17:55: User selected:
+17:55:   Video: Intel(R) HD Graphics 4600 (accelerated)
+17:55:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+17:55:   Audio: Первичный звуковой драйвер
+17:55: Maximum texture size: 8192x8192
+17:55: Engine initialized in 21 ms
+17:55: 
+17:56: 
+17:56: Shutting down...
+17:56: Shutting down scripting engine
+17:56: ********** DEBUG LOG CLOSED ********************************************
+
+17:56: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+17:56: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+17:56: Platform: Windows XP or higher  (Build 9200)
+17:56: DirectX version: 9.0
+17:56: 
+17:56: Scanning packages...
+17:56:   Registered 0 files in 0 package(s)
+17:56: Initializing scripting engine...
+17:56:   Script compiler bound successfuly
+17:56: Loading plugins...
+17:56:   wme_sample_pixel.dll
+17:56:   wme_snow.dll
+17:56: Loading string table...
+17:56:   51 strings loaded
+17:56: Enumerating Direct3D devices...
+17:56: Enumerating DirectSound devices...
+17:56: Game aspect ratio:    1.333333
+17:56: Monitor aspect ratio: 1.777778
+17:56: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+17:56:   -> Considering: 1280 x 720
+17:56:   -> Considering: 1280 x 768
+17:56:   -> Considering: 1280 x 800
+17:56:   -> Considering: 1360 x 768
+17:56:   -> Considering: 1440 x 900
+17:56:   -> Considering: 1600 x 900
+17:56:   -> Considering: 1680 x 1050
+17:56:   -> Considering: 1920 x 1080
+17:56: Optimal resolution: 1280 x 720
+17:56: Backup resolution:  1280 x 720
+17:56: 
+17:56: Available video devices:
+17:56:   Intel(R) HD Graphics 4600 (accelerated)
+17:56:     Driver: igdumdim32.dll 20.19.15.4835
+17:56:     Monitor: 0
+17:56: Available audio devices:
+17:56:   Первичный звуковой драйвер
+17:56:   Динамики (Realtek High Definition Audio)
+17:56:   [no sound]
+17:56: 
+17:56: User selected:
+17:56:   Video: Intel(R) HD Graphics 4600 (accelerated)
+17:56:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+17:56:   Audio: Первичный звуковой драйвер
+17:56: Maximum texture size: 8192x8192
+17:56: Engine initialized in 25 ms
+17:56: 
+17:56: 
+17:56: Shutting down...
+17:56: Shutting down scripting engine
+17:56: ********** DEBUG LOG CLOSED ********************************************
+
+17:57: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+17:57: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+17:57: Platform: Windows XP or higher  (Build 9200)
+17:57: DirectX version: 9.0
+17:57: 
+17:57: Scanning packages...
+17:57:   Registered 0 files in 0 package(s)
+17:57: Initializing scripting engine...
+17:57:   Script compiler bound successfuly
+17:57: Loading plugins...
+17:57:   wme_sample_pixel.dll
+17:57:   wme_snow.dll
+17:57: Loading string table...
+17:57:   51 strings loaded
+17:57: Enumerating Direct3D devices...
+17:57: Enumerating DirectSound devices...
+17:57: Game aspect ratio:    1.333333
+17:57: Monitor aspect ratio: 1.777778
+17:57: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+17:57:   -> Considering: 1280 x 720
+17:57:   -> Considering: 1280 x 768
+17:57:   -> Considering: 1280 x 800
+17:57:   -> Considering: 1360 x 768
+17:57:   -> Considering: 1440 x 900
+17:57:   -> Considering: 1600 x 900
+17:57:   -> Considering: 1680 x 1050
+17:57:   -> Considering: 1920 x 1080
+17:57: Optimal resolution: 1280 x 720
+17:57: Backup resolution:  1280 x 720
+17:57: 
+17:57: Available video devices:
+17:57:   Intel(R) HD Graphics 4600 (accelerated)
+17:57:     Driver: igdumdim32.dll 20.19.15.4835
+17:57:     Monitor: 0
+17:57: Available audio devices:
+17:57:   Первичный звуковой драйвер
+17:57:   Динамики (Realtek High Definition Audio)
+17:57:   [no sound]
+17:57: 
+17:57: User selected:
+17:57:   Video: Intel(R) HD Graphics 4600 (accelerated)
+17:57:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+17:57:   Audio: Первичный звуковой драйвер
+17:57: Maximum texture size: 8192x8192
+17:57: Engine initialized in 24 ms
+17:57: 
+17:57: 
+17:57: Shutting down...
+17:57: Shutting down scripting engine
+17:57: ********** DEBUG LOG CLOSED ********************************************
+
+17:57: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+17:57: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+17:57: Platform: Windows XP or higher  (Build 9200)
+17:57: DirectX version: 9.0
+17:57: 
+17:57: Scanning packages...
+17:57:   Registered 0 files in 0 package(s)
+17:57: Initializing scripting engine...
+17:57:   Script compiler bound successfuly
+17:57: Loading plugins...
+17:57:   wme_sample_pixel.dll
+17:57:   wme_snow.dll
+17:57: Loading string table...
+17:57:   51 strings loaded
+17:57: Enumerating Direct3D devices...
+17:57: Enumerating DirectSound devices...
+17:57: Game aspect ratio:    1.333333
+17:57: Monitor aspect ratio: 1.777778
+17:57: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+17:57:   -> Considering: 1280 x 720
+17:57:   -> Considering: 1280 x 768
+17:57:   -> Considering: 1280 x 800
+17:57:   -> Considering: 1360 x 768
+17:57:   -> Considering: 1440 x 900
+17:57:   -> Considering: 1600 x 900
+17:57:   -> Considering: 1680 x 1050
+17:57:   -> Considering: 1920 x 1080
+17:57: Optimal resolution: 1280 x 720
+17:57: Backup resolution:  1280 x 720
+17:57: 
+17:57: Available video devices:
+17:57:   Intel(R) HD Graphics 4600 (accelerated)
+17:57:     Driver: igdumdim32.dll 20.19.15.4835
+17:57:     Monitor: 0
+17:57: Available audio devices:
+17:57:   Первичный звуковой драйвер
+17:57:   Динамики (Realtek High Definition Audio)
+17:57:   [no sound]
+17:57: 
+17:57: User selected:
+17:57:   Video: Intel(R) HD Graphics 4600 (accelerated)
+17:57:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+17:57:   Audio: Первичный звуковой драйвер
+17:57: Maximum texture size: 8192x8192
+17:57: Engine initialized in 24 ms
+17:57: 
+17:58: 
+17:58: Shutting down...
+17:58: Shutting down scripting engine
+17:58: ********** DEBUG LOG CLOSED ********************************************
+
+18:05: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+18:05: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+18:05: Platform: Windows XP or higher  (Build 9200)
+18:05: DirectX version: 9.0
+18:05: 
+18:05: Scanning packages...
+18:05:   Registered 0 files in 0 package(s)
+18:05: Initializing scripting engine...
+18:05:   Script compiler bound successfuly
+18:05: Loading plugins...
+18:05:   wme_sample_pixel.dll
+18:05:   wme_snow.dll
+18:05: Loading string table...
+18:05:   51 strings loaded
+18:05: Enumerating Direct3D devices...
+18:05: Enumerating DirectSound devices...
+18:05: Game aspect ratio:    1.333333
+18:05: Monitor aspect ratio: 1.777778
+18:05: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+18:05:   -> Considering: 1280 x 720
+18:05:   -> Considering: 1280 x 768
+18:05:   -> Considering: 1280 x 800
+18:05:   -> Considering: 1360 x 768
+18:05:   -> Considering: 1440 x 900
+18:05:   -> Considering: 1600 x 900
+18:05:   -> Considering: 1680 x 1050
+18:05:   -> Considering: 1920 x 1080
+18:05: Optimal resolution: 1280 x 720
+18:05: Backup resolution:  1280 x 720
+18:05: 
+18:05: Available video devices:
+18:05:   Intel(R) HD Graphics 4600 (accelerated)
+18:05:     Driver: igdumdim32.dll 20.19.15.4835
+18:05:     Monitor: 0
+18:05: Available audio devices:
+18:05:   Первичный звуковой драйвер
+18:05:   Динамики (Realtek High Definition Audio)
+18:05:   [no sound]
+18:05: 
+18:05: User selected:
+18:05:   Video: Intel(R) HD Graphics 4600 (accelerated)
+18:05:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+18:05:   Audio: Первичный звуковой драйвер
+18:05: Maximum texture size: 8192x8192
+18:05: Engine initialized in 27 ms
+18:05: 
+18:05: Compiling script 'actors\idle\idle.script'...
+18:05:   Error@line 4: syntax error
+18:05: 
+18:05: Shutting down...
+18:05: Shutting down scripting engine
+18:05: ********** DEBUG LOG CLOSED ********************************************
+
+18:06: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+18:06: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+18:06: Platform: Windows XP or higher  (Build 9200)
+18:06: DirectX version: 9.0
+18:06: 
+18:06: Scanning packages...
+18:06:   Registered 0 files in 0 package(s)
+18:06: Initializing scripting engine...
+18:06:   Script compiler bound successfuly
+18:06: Loading plugins...
+18:06:   wme_sample_pixel.dll
+18:06:   wme_snow.dll
+18:06: Loading string table...
+18:06:   51 strings loaded
+18:06: Enumerating Direct3D devices...
+18:06: Enumerating DirectSound devices...
+18:06: Game aspect ratio:    1.333333
+18:06: Monitor aspect ratio: 1.777778
+18:06: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+18:06:   -> Considering: 1280 x 720
+18:06:   -> Considering: 1280 x 768
+18:06:   -> Considering: 1280 x 800
+18:06:   -> Considering: 1360 x 768
+18:06:   -> Considering: 1440 x 900
+18:06:   -> Considering: 1600 x 900
+18:06:   -> Considering: 1680 x 1050
+18:06:   -> Considering: 1920 x 1080
+18:06: Optimal resolution: 1280 x 720
+18:06: Backup resolution:  1280 x 720
+18:06: 
+18:06: Available video devices:
+18:06:   Intel(R) HD Graphics 4600 (accelerated)
+18:06:     Driver: igdumdim32.dll 20.19.15.4835
+18:06:     Monitor: 0
+18:06: Available audio devices:
+18:06:   Первичный звуковой драйвер
+18:06:   Динамики (Realtek High Definition Audio)
+18:06:   [no sound]
+18:06: 
+18:06: User selected:
+18:06:   Video: Intel(R) HD Graphics 4600 (accelerated)
+18:06:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+18:06:   Audio: Первичный звуковой драйвер
+18:06: Maximum texture size: 8192x8192
+18:06: Engine initialized in 37 ms
+18:06: 
+18:06: Compiling script 'actors\idle\idle.script'...
+18:06:   Error@line 4: syntax error
+18:06: Syntax error in SCENE definition
+18:06: Error parsing SCENE file 'scenes\Room\Room.scene'
+18:06: 
+18:06: Shutting down...
+18:06: Shutting down scripting engine
+18:06: ********** DEBUG LOG CLOSED ********************************************
+
+18:08: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+18:08: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+18:08: Platform: Windows XP or higher  (Build 9200)
+18:08: DirectX version: 9.0
+18:08: 
+18:08: Scanning packages...
+18:08:   Registered 0 files in 0 package(s)
+18:08: Initializing scripting engine...
+18:08:   Script compiler bound successfuly
+18:08: Loading plugins...
+18:08:   wme_sample_pixel.dll
+18:08:   wme_snow.dll
+18:08: Loading string table...
+18:08:   51 strings loaded
+18:08: Enumerating Direct3D devices...
+18:08: Enumerating DirectSound devices...
+18:08: Game aspect ratio:    1.333333
+18:08: Monitor aspect ratio: 1.777778
+18:08: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+18:08:   -> Considering: 1280 x 720
+18:08:   -> Considering: 1280 x 768
+18:08:   -> Considering: 1280 x 800
+18:08:   -> Considering: 1360 x 768
+18:08:   -> Considering: 1440 x 900
+18:08:   -> Considering: 1600 x 900
+18:08:   -> Considering: 1680 x 1050
+18:08:   -> Considering: 1920 x 1080
+18:08: Optimal resolution: 1280 x 720
+18:08: Backup resolution:  1280 x 720
+18:08: 
+18:08: Available video devices:
+18:08:   Intel(R) HD Graphics 4600 (accelerated)
+18:08:     Driver: igdumdim32.dll 20.19.15.4835
+18:08:     Monitor: 0
+18:08: Available audio devices:
+18:08:   Первичный звуковой драйвер
+18:08:   Динамики (Realtek High Definition Audio)
+18:08:   [no sound]
+18:08: 
+18:08: User selected:
+18:08:   Video: Intel(R) HD Graphics 4600 (accelerated)
+18:08:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+18:08:   Audio: Первичный звуковой драйвер
+18:08: Maximum texture size: 8192x8192
+18:08: Engine initialized in 22 ms
+18:08: 
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 4: syntax error
+18:08: 
+18:08: Shutting down...
+18:08: Shutting down scripting engine
+18:08: ********** DEBUG LOG CLOSED ********************************************
+
+18:08: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+18:08: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+18:08: Platform: Windows XP or higher  (Build 9200)
+18:08: DirectX version: 9.0
+18:08: 
+18:08: Scanning packages...
+18:08:   Registered 0 files in 0 package(s)
+18:08: Initializing scripting engine...
+18:08:   Script compiler bound successfuly
+18:08: Loading plugins...
+18:08:   wme_sample_pixel.dll
+18:08:   wme_snow.dll
+18:08: Loading string table...
+18:08:   51 strings loaded
+18:08: Enumerating Direct3D devices...
+18:08: Enumerating DirectSound devices...
+18:08: Game aspect ratio:    1.333333
+18:08: Monitor aspect ratio: 1.777778
+18:08: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+18:08:   -> Considering: 1280 x 720
+18:08:   -> Considering: 1280 x 768
+18:08:   -> Considering: 1280 x 800
+18:08:   -> Considering: 1360 x 768
+18:08:   -> Considering: 1440 x 900
+18:08:   -> Considering: 1600 x 900
+18:08:   -> Considering: 1680 x 1050
+18:08:   -> Considering: 1920 x 1080
+18:08: Optimal resolution: 1280 x 720
+18:08: Backup resolution:  1280 x 720
+18:08: 
+18:08: Available video devices:
+18:08:   Intel(R) HD Graphics 4600 (accelerated)
+18:08:     Driver: igdumdim32.dll 20.19.15.4835
+18:08:     Monitor: 0
+18:08: Available audio devices:
+18:08:   Первичный звуковой драйвер
+18:08:   Динамики (Realtek High Definition Audio)
+18:08:   [no sound]
+18:08: 
+18:08: User selected:
+18:08:   Video: Intel(R) HD Graphics 4600 (accelerated)
+18:08:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+18:08:   Audio: Первичный звуковой драйвер
+18:08: Maximum texture size: 8192x8192
+18:08: Engine initialized in 22 ms
+18:08: 
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 5: Variable 'prevX' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 5: Variable 'dist' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 5: Variable 'prevY' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 5: Variable 'dist' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 5: Variable 'prevSceneName' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 7: Variable 'a' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 8: Variable 'a' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 8: Variable 'a' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 9: Variable 'a' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 18: Variable 'prevX' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 19: Variable 'prevY' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 20: Variable 'prevSceneName' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 24: Variable 'i1' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 25: Variable 'i2' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 26: Variable 'i3' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 27: Variable 'i4' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 27: Variable 'a' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 27: Variable 'a' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 28: Variable 'i4' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 28: Variable 'i4' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 28: Variable 'i4' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 28: Variable 'i4' is referenced but not defined
+18:08: 
+18:08: Shutting down...
+18:08: Shutting down scripting engine
+18:08: ********** DEBUG LOG CLOSED ********************************************
+
+18:08: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+18:08: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+18:08: Platform: Windows XP or higher  (Build 9200)
+18:08: DirectX version: 9.0
+18:08: 
+18:08: Scanning packages...
+18:08:   Registered 0 files in 0 package(s)
+18:08: Initializing scripting engine...
+18:08:   Script compiler bound successfuly
+18:08: Loading plugins...
+18:08:   wme_sample_pixel.dll
+18:08:   wme_snow.dll
+18:08: Loading string table...
+18:08:   51 strings loaded
+18:08: Enumerating Direct3D devices...
+18:08: Enumerating DirectSound devices...
+18:08: Game aspect ratio:    1.333333
+18:08: Monitor aspect ratio: 1.777778
+18:08: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+18:08:   -> Considering: 1280 x 720
+18:08:   -> Considering: 1280 x 768
+18:08:   -> Considering: 1280 x 800
+18:08:   -> Considering: 1360 x 768
+18:08:   -> Considering: 1440 x 900
+18:08:   -> Considering: 1600 x 900
+18:08:   -> Considering: 1680 x 1050
+18:08:   -> Considering: 1920 x 1080
+18:08: Optimal resolution: 1280 x 720
+18:08: Backup resolution:  1280 x 720
+18:08: 
+18:08: Available video devices:
+18:08:   Intel(R) HD Graphics 4600 (accelerated)
+18:08:     Driver: igdumdim32.dll 20.19.15.4835
+18:08:     Monitor: 0
+18:08: Available audio devices:
+18:08:   Первичный звуковой драйвер
+18:08:   Динамики (Realtek High Definition Audio)
+18:08:   [no sound]
+18:08: 
+18:08: User selected:
+18:08:   Video: Intel(R) HD Graphics 4600 (accelerated)
+18:08:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+18:08:   Audio: Первичный звуковой драйвер
+18:08: Maximum texture size: 8192x8192
+18:08: Engine initialized in 29 ms
+18:08: 
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 5: Variable 'prevX' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 5: Variable 'dist' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 5: Variable 'prevY' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 5: Variable 'dist' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 5: Variable 'prevSceneName' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 7: Variable 'a' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 8: Variable 'a' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 8: Variable 'a' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 9: Variable 'a' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 18: Variable 'prevX' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 19: Variable 'prevY' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 20: Variable 'prevSceneName' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 24: Variable 'i1' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 25: Variable 'i2' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 26: Variable 'i3' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 27: Variable 'i4' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 27: Variable 'a' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 27: Variable 'a' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 28: Variable 'i4' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 28: Variable 'i4' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 28: Variable 'i4' is referenced but not defined
+18:08: Compiling script 'actors\idle\idle.script'...
+18:08:   Error@line 28: Variable 'i4' is referenced but not defined
+18:09: 
+18:09: Shutting down...
+18:09: Shutting down scripting engine
+18:09: ********** DEBUG LOG CLOSED ********************************************
+
+18:11: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+18:11: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+18:11: Platform: Windows XP or higher  (Build 9200)
+18:11: DirectX version: 9.0
+18:11: 
+18:11: Scanning packages...
+18:11:   Registered 0 files in 0 package(s)
+18:11: Initializing scripting engine...
+18:11:   Script compiler bound successfuly
+18:11: Loading plugins...
+18:11:   wme_sample_pixel.dll
+18:11:   wme_snow.dll
+18:11: Loading string table...
+18:11:   51 strings loaded
+18:11: Enumerating Direct3D devices...
+18:11: Enumerating DirectSound devices...
+18:11: Game aspect ratio:    1.333333
+18:11: Monitor aspect ratio: 1.777778
+18:11: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+18:11:   -> Considering: 1280 x 720
+18:11:   -> Considering: 1280 x 768
+18:11:   -> Considering: 1280 x 800
+18:11:   -> Considering: 1360 x 768
+18:11:   -> Considering: 1440 x 900
+18:11:   -> Considering: 1600 x 900
+18:11:   -> Considering: 1680 x 1050
+18:11:   -> Considering: 1920 x 1080
+18:11: Optimal resolution: 1280 x 720
+18:11: Backup resolution:  1280 x 720
+18:11: 
+18:11: Available video devices:
+18:11:   Intel(R) HD Graphics 4600 (accelerated)
+18:11:     Driver: igdumdim32.dll 20.19.15.4835
+18:11:     Monitor: 0
+18:11: Available audio devices:
+18:11:   Первичный звуковой драйвер
+18:11:   Динамики (Realtek High Definition Audio)
+18:11:   [no sound]
+18:11: 
+18:11: User selected:
+18:11:   Video: Intel(R) HD Graphics 4600 (accelerated)
+18:11:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+18:11:   Audio: Первичный звуковой драйвер
+18:11: Maximum texture size: 8192x8192
+18:11: Engine initialized in 25 ms
+18:11: 
+18:11: Compiling script 'actors\idle\idle.script'...
+18:11:   Error@line 5: Variable 'prevX' is referenced but not defined
+18:11: Compiling script 'actors\idle\idle.script'...
+18:11:   Error@line 5: Variable 'dist' is referenced but not defined
+18:11: Compiling script 'actors\idle\idle.script'...
+18:11:   Error@line 5: Variable 'prevY' is referenced but not defined
+18:11: Compiling script 'actors\idle\idle.script'...
+18:11:   Error@line 5: Variable 'dist' is referenced but not defined
+18:11: Compiling script 'actors\idle\idle.script'...
+18:11:   Error@line 5: Variable 'prevSceneName' is referenced but not defined
+18:11: 
+18:11: Shutting down...
+18:11: Shutting down scripting engine
+18:11: ********** DEBUG LOG CLOSED ********************************************
+
+18:12: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+18:12: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+18:12: Platform: Windows XP or higher  (Build 9200)
+18:12: DirectX version: 9.0
+18:12: 
+18:12: Scanning packages...
+18:12:   Registered 0 files in 0 package(s)
+18:12: Initializing scripting engine...
+18:12:   Script compiler bound successfuly
+18:12: Loading plugins...
+18:12:   wme_sample_pixel.dll
+18:12:   wme_snow.dll
+18:12: Loading string table...
+18:12:   51 strings loaded
+18:12: Enumerating Direct3D devices...
+18:12: Enumerating DirectSound devices...
+18:12: Game aspect ratio:    1.333333
+18:12: Monitor aspect ratio: 1.777778
+18:12: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+18:12:   -> Considering: 1280 x 720
+18:12:   -> Considering: 1280 x 768
+18:12:   -> Considering: 1280 x 800
+18:12:   -> Considering: 1360 x 768
+18:12:   -> Considering: 1440 x 900
+18:12:   -> Considering: 1600 x 900
+18:12:   -> Considering: 1680 x 1050
+18:12:   -> Considering: 1920 x 1080
+18:12: Optimal resolution: 1280 x 720
+18:12: Backup resolution:  1280 x 720
+18:12: 
+18:12: Available video devices:
+18:12:   Intel(R) HD Graphics 4600 (accelerated)
+18:12:     Driver: igdumdim32.dll 20.19.15.4835
+18:12:     Monitor: 0
+18:12: Available audio devices:
+18:12:   Первичный звуковой драйвер
+18:12:   Динамики (Realtek High Definition Audio)
+18:12:   [no sound]
+18:12: 
+18:12: User selected:
+18:12:   Video: Intel(R) HD Graphics 4600 (accelerated)
+18:12:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+18:12:   Audio: Первичный звуковой драйвер
+18:12: Maximum texture size: 8192x8192
+18:12: Engine initialized in 24 ms
+18:12: 
+18:12: Compiling script 'actors\idle\idle.script'...
+18:12:   Error@line 8: Variable 'dist' is referenced but not defined
+18:12: Compiling script 'actors\idle\idle.script'...
+18:12:   Error@line 8: Variable 'dist' is referenced but not defined
+18:12: 
+18:12: Shutting down...
+18:12: Shutting down scripting engine
+18:12: ********** DEBUG LOG CLOSED ********************************************
+
+18:12: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+18:12: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+18:12: Platform: Windows XP or higher  (Build 9200)
+18:12: DirectX version: 9.0
+18:12: 
+18:12: Scanning packages...
+18:12:   Registered 0 files in 0 package(s)
+18:12: Initializing scripting engine...
+18:12:   Script compiler bound successfuly
+18:12: Loading plugins...
+18:12:   wme_sample_pixel.dll
+18:12:   wme_snow.dll
+18:12: Loading string table...
+18:12:   51 strings loaded
+18:12: Enumerating Direct3D devices...
+18:12: Enumerating DirectSound devices...
+18:12: Game aspect ratio:    1.333333
+18:12: Monitor aspect ratio: 1.777778
+18:12: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+18:12:   -> Considering: 1280 x 720
+18:12:   -> Considering: 1280 x 768
+18:12:   -> Considering: 1280 x 800
+18:12:   -> Considering: 1360 x 768
+18:12:   -> Considering: 1440 x 900
+18:12:   -> Considering: 1600 x 900
+18:12:   -> Considering: 1680 x 1050
+18:12:   -> Considering: 1920 x 1080
+18:12: Optimal resolution: 1280 x 720
+18:12: Backup resolution:  1280 x 720
+18:12: 
+18:12: Available video devices:
+18:12:   Intel(R) HD Graphics 4600 (accelerated)
+18:12:     Driver: igdumdim32.dll 20.19.15.4835
+18:12:     Monitor: 0
+18:12: Available audio devices:
+18:12:   Первичный звуковой драйвер
+18:12:   Динамики (Realtek High Definition Audio)
+18:12:   [no sound]
+18:12: 
+18:12: User selected:
+18:12:   Video: Intel(R) HD Graphics 4600 (accelerated)
+18:12:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+18:12:   Audio: Первичный звуковой драйвер
+18:12: Maximum texture size: 8192x8192
+18:12: Engine initialized in 24 ms
+18:12: 
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: Runtime error. Script 'actors\idle\idle.script', line 31
+18:12:   Call to undefined method 'GetPixelAt'. Ignored.
+18:12: 
+18:12: Shutting down...
+18:12: Shutting down scripting engine
+18:12: ********** DEBUG LOG CLOSED ********************************************
+
+18:15: ********** DEBUG LOG OPENED 19-08-2018 (Release Build) *****************
+18:15: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+18:15: Platform: Windows XP or higher  (Build 9200)
+18:15: DirectX version: 9.0
+18:15: 
+18:15: Scanning packages...
+18:15:   Registered 0 files in 0 package(s)
+18:15: Initializing scripting engine...
+18:15:   Script compiler bound successfuly
+18:15: Loading plugins...
+18:15:   wme_sample_pixel.dll
+18:15:   wme_snow.dll
+18:15: Loading string table...
+18:15:   51 strings loaded
+18:15: Enumerating Direct3D devices...
+18:15: Enumerating DirectSound devices...
+18:15: Game aspect ratio:    1.333333
+18:15: Monitor aspect ratio: 1.777778
+18:15: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+18:15:   -> Considering: 1280 x 720
+18:15:   -> Considering: 1280 x 768
+18:15:   -> Considering: 1280 x 800
+18:15:   -> Considering: 1360 x 768
+18:15:   -> Considering: 1440 x 900
+18:15:   -> Considering: 1600 x 900
+18:15:   -> Considering: 1680 x 1050
+18:15:   -> Considering: 1920 x 1080
+18:15: Optimal resolution: 1280 x 720
+18:15: Backup resolution:  1280 x 720
+18:15: 
+18:15: Available video devices:
+18:15:   Intel(R) HD Graphics 4600 (accelerated)
+18:15:     Driver: igdumdim32.dll 20.19.15.4835
+18:15:     Monitor: 0
+18:15: Available audio devices:
+18:15:   Первичный звуковой драйвер
+18:15:   Динамики (Realtek High Definition Audio)
+18:15:   [no sound]
+18:15: 
+18:15: User selected:
+18:15:   Video: Intel(R) HD Graphics 4600 (accelerated)
+18:15:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+18:15:   Audio: Первичный звуковой драйвер
+18:15: Maximum texture size: 8192x8192
+18:15: Engine initialized in 27 ms
+18:15: 
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: Runtime error. Script 'actors\idle\idle.script', line 31
+18:15:   Call to undefined method 'GetPixelAt'. Ignored.
+18:15: 
+18:15: Shutting down...
+18:15: Shutting down scripting engine
+18:15: ********** DEBUG LOG CLOSED ********************************************

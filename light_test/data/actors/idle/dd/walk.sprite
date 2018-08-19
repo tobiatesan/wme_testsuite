@@ -1,0 +1,63 @@
+; $EDITOR_PROJECT_ROOT_DIR$ ..\..\..\..\
+
+SPRITE
+{
+  LOOPING = TRUE
+
+  FRAME{
+    DELAY = 40
+    IMAGE = "actors\idle\dd\00.png"
+    HOTSPOT {100,180}
+    MOVE {0,10}
+  }
+
+  FRAME{
+    DELAY = 40
+    IMAGE = "actors\idle\dd\00.png"
+    HOTSPOT {100,180}
+    MOVE {0,15}
+  }
+
+  FRAME{
+    DELAY = 40
+    IMAGE = "actors\idle\dd\00.png"
+    HOTSPOT {100,180}
+    MOVE {0,20}
+  }
+
+  FRAME{
+    DELAY = 40
+    IMAGE = "actors\idle\dd\00.png"
+    HOTSPOT {100,180}
+    MOVE {0,25}
+  }
+
+  FRAME{
+    DELAY = 40
+    IMAGE = "actors\idle\dd\00.png"
+    HOTSPOT {100,180}
+    MOVE {0,30}
+  }
+
+  FRAME{
+    DELAY = 40
+    IMAGE = "actors\idle\dd\00.png"
+    HOTSPOT {100,180}
+    MOVE {0,25}
+  }
+
+  FRAME{
+    DELAY = 40
+    IMAGE = "actors\idle\dd\00.png"
+    HOTSPOT {100,180}
+    MOVE {0,20}
+  }
+
+  FRAME{
+    DELAY = 40
+    IMAGE = "actors\idle\dd\00.png"
+    HOTSPOT {100,180}
+    MOVE {0,15}
+  }
+
+}

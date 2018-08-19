@@ -1,0 +1,89 @@
+; $EDITOR_PROJECT_ROOT_DIR$ ..\..\..\
+
+ACTOR
+{
+  NAME = "idle"
+  CAPTION=""
+  SCALABLE = TRUE
+  INTERACTIVE = FALSE
+  X = 400
+  Y = 460
+  SCRIPT="actors\idle\idle.script"
+
+  FONT = "fonts\outline_red.font"
+
+  ANIMATION
+  {
+    NAME       = "idle"
+    
+    LEFT       = "actors\idle\dd\stand.sprite"
+    RIGHT      = "actors\idle\dd\stand.sprite"
+    UP         = "actors\idle\dd\stand.sprite"
+    DOWN       = "actors\idle\dd\stand.sprite"
+
+    UP_LEFT    = "actors\idle\dd\stand.sprite"
+    UP_RIGHT   = "actors\idle\dd\stand.sprite"
+    DOWN_LEFT  = "actors\idle\dd\stand.sprite"
+    DOWN_RIGHT = "actors\idle\dd\stand.sprite"
+  }  
+
+  ANIMATION
+  {
+    NAME       = "walk"
+    
+    LEFT       = "actors\idle\dd\walk.sprite"
+    RIGHT      = "actors\idle\dd\walk.sprite"
+    UP         = "actors\idle\dd\walk.sprite"
+    DOWN       = "actors\idle\dd\walk.sprite"
+
+    UP_LEFT    = "actors\idle\dd\walk.sprite"
+    UP_RIGHT   = "actors\idle\dd\walk.sprite"
+    DOWN_LEFT  = "actors\idle\dd\walk.sprite"
+    DOWN_RIGHT = "actors\idle\dd\walk.sprite"
+  }
+
+  ANIMATION
+  {
+    NAME       = "talk"
+    
+    LEFT       = "actors\idle\dd\talk.sprite"
+    RIGHT      = "actors\idle\dd\talk.sprite"
+    UP         = "actors\idle\dd\talk.sprite"
+    DOWN       = "actors\idle\dd\talk.sprite"
+
+    UP_LEFT    = "actors\idle\dd\talk.sprite"
+    UP_RIGHT   = "actors\idle\dd\talk.sprite"
+    DOWN_LEFT  = "actors\idle\dd\talk.sprite"
+    DOWN_RIGHT = "actors\idle\dd\talk.sprite"
+  }
+
+  ANIMATION
+  {
+    NAME       = "turnleft"
+    
+    LEFT       = "actors\idle\dd\turn.sprite"
+    RIGHT      = "actors\idle\dd\turn.sprite"
+    UP         = "actors\idle\dd\turn.sprite"
+    DOWN       = "actors\idle\dd\turn.sprite"
+
+    UP_LEFT    = "actors\idle\dd\turn.sprite"
+    UP_RIGHT   = "actors\idle\dd\turn.sprite"
+    DOWN_LEFT  = "actors\idle\dd\turn.sprite"
+    DOWN_RIGHT = "actors\idle\dd\turn.sprite"
+  }
+  
+  ANIMATION
+  {
+    NAME       = "turnright"
+    
+    LEFT       = "actors\idle\dd\turn.sprite"
+    RIGHT      = "actors\idle\dd\turn.sprite"
+    UP         = "actors\idle\dd\turn.sprite"
+    DOWN       = "actors\idle\dd\turn.sprite"
+
+    UP_LEFT    = "actors\idle\dd\turn.sprite"
+    UP_RIGHT   = "actors\idle\dd\turn.sprite"
+    DOWN_LEFT  = "actors\idle\dd\turn.sprite"
+    DOWN_RIGHT = "actors\idle\dd\turn.sprite"
+  }  
+}
