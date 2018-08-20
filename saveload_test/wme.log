@@ -1,0 +1,123 @@
+
+03:17: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+03:17: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+03:17: Platform: Windows XP or higher  (Build 9200)
+03:17: DirectX version: 9.0
+03:17: 
+03:17: Scanning packages...
+03:17:   Registered 0 files in 0 package(s)
+03:17: Initializing scripting engine...
+03:17:   Script compiler bound successfuly
+03:17: Loading plugins...
+03:17:   wme_sample_pixel.dll
+03:17:   wme_snow.dll
+03:17: Loading string table...
+03:17:   51 strings loaded
+03:17: Enumerating Direct3D devices...
+03:17: Enumerating DirectSound devices...
+03:17: Game aspect ratio:    1.333333
+03:17: Monitor aspect ratio: 1.777778
+03:17: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+03:17:   -> Considering: 1280 x 720
+03:17:   -> Considering: 1280 x 768
+03:17:   -> Considering: 1280 x 800
+03:17:   -> Considering: 1360 x 768
+03:17:   -> Considering: 1440 x 900
+03:17:   -> Considering: 1600 x 900
+03:17:   -> Considering: 1680 x 1050
+03:17:   -> Considering: 1920 x 1080
+03:17: Optimal resolution: 1280 x 720
+03:17: Backup resolution:  1280 x 720
+03:17: 
+03:17: Available video devices:
+03:17:   Intel(R) HD Graphics 4600 (accelerated)
+03:17:     Driver: igdumdim32.dll 20.19.15.4835
+03:17:     Monitor: 0
+03:17: Available audio devices:
+03:17:   Первичный звуковой драйвер
+03:17:   Динамики (Realtek High Definition Audio)
+03:17:   [no sound]
+03:17: 
+03:17: User selected:
+03:17:   Video: Intel(R) HD Graphics 4600 (accelerated)
+03:17:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+03:17:   Audio: Первичный звуковой драйвер
+03:17: Maximum texture size: 8192x8192
+03:17: Engine initialized in 299 ms
+03:17: 
+03:17: Saving game 'C:\Users\q\Saved Games\saveload_test\save000.dsv'...
+03:17: CBSprite::LoadFile failed for file 'savegame:0'
+03:17: Loading game 'C:\Users\q\Saved Games\saveload_test\save000.dsv'...
+03:17: CBSprite::LoadFile failed for file 'savegame:0'
+03:17: Loading game 'C:\Users\q\Saved Games\saveload_test\save000.dsv'...
+03:17: CBSprite::LoadFile failed for file 'savegame:0'
+03:18: Saving game 'C:\Users\q\Saved Games\saveload_test\save000.dsv'...
+03:23: CBSprite::LoadFile failed for file 'savegame:0'
+03:23: Loading game 'C:\Users\q\Saved Games\saveload_test\save000.dsv'...
+03:23: CBSprite::LoadFile failed for file 'savegame:0'
+03:23: Saving game 'C:\Users\q\Saved Games\saveload_test\save000.dsv'...
+03:23: 
+03:23: Shutting down...
+03:23: Shutting down scripting engine
+03:23: ********** DEBUG LOG CLOSED ********************************************
+
+03:23: ********** DEBUG LOG OPENED 20-08-2018 (Release Build) *****************
+03:23: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+03:23: Platform: Windows XP or higher  (Build 9200)
+03:23: DirectX version: 9.0
+03:23: 
+03:23: Scanning packages...
+03:23:   Registered 0 files in 0 package(s)
+03:23: Initializing scripting engine...
+03:23:   Script compiler bound successfuly
+03:23: Loading plugins...
+03:23:   wme_sample_pixel.dll
+03:23:   wme_snow.dll
+03:23: Loading string table...
+03:23:   51 strings loaded
+03:23: Enumerating Direct3D devices...
+03:23: Enumerating DirectSound devices...
+03:23: Game aspect ratio:    1.333333
+03:23: Monitor aspect ratio: 1.777778
+03:23: Searching for optimal resolution (device: Intel(R) HD Graphics 4600)
+03:23:   -> Considering: 1280 x 720
+03:23:   -> Considering: 1280 x 768
+03:23:   -> Considering: 1280 x 800
+03:23:   -> Considering: 1360 x 768
+03:23:   -> Considering: 1440 x 900
+03:23:   -> Considering: 1600 x 900
+03:23:   -> Considering: 1680 x 1050
+03:23:   -> Considering: 1920 x 1080
+03:23: Optimal resolution: 1280 x 720
+03:23: Backup resolution:  1280 x 720
+03:23: 
+03:23: Available video devices:
+03:23:   Intel(R) HD Graphics 4600 (accelerated)
+03:23:     Driver: igdumdim32.dll 20.19.15.4835
+03:23:     Monitor: 0
+03:23: Available audio devices:
+03:23:   Первичный звуковой драйвер
+03:23:   Динамики (Realtek High Definition Audio)
+03:23:   [no sound]
+03:23: 
+03:23: User selected:
+03:23:   Video: Intel(R) HD Graphics 4600 (accelerated)
+03:23:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+03:23:   Audio: Первичный звуковой драйвер
+03:23: Maximum texture size: 8192x8192
+03:23: Engine initialized in 31 ms
+03:23: 
+03:24: CBSprite::LoadFile failed for file 'savegame:0'
+03:24: Saving game 'C:\Users\q\Saved Games\saveload_test\save000.dsv'...
+03:24: CBSprite::LoadFile failed for file 'savegame:0'
+03:24: Saving game 'C:\Users\q\Saved Games\saveload_test\save000.dsv'...
+03:24: CBSprite::LoadFile failed for file 'savegame:0'
+03:24: Saving game 'C:\Users\q\Saved Games\saveload_test\save000.dsv'...
+03:24: CBSprite::LoadFile failed for file 'savegame:0'
+03:24: Loading game 'C:\Users\q\Saved Games\saveload_test\save000.dsv'...
+03:24: CBSprite::LoadFile failed for file 'savegame:0'
+03:24: Loading game 'C:\Users\q\Saved Games\saveload_test\save000.dsv'...
+03:25: 
+03:25: Shutting down...
+03:25: Shutting down scripting engine
+03:25: ********** DEBUG LOG CLOSED ********************************************
