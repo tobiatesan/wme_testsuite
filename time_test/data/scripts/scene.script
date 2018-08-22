@@ -1,0 +1,17 @@
+#include "scripts\base.inc"
+
+////////////////////////////////////////////////////////////////////////////////
+on "LeftClick"
+{
+  // when the scene is left-clicked, just send the actor to the specified point
+  actor.GoTo(Scene.MouseX, Scene.MouseY);
+}
+
+var a = Scene.GetNode("hour");
+var b = Scene.GetNode("minute");
+while(1) {
+	var CurrentTime = new Date();
+	a.Rotate = CurrentTime.GetMinutes()*6 + CurrentTime.GetSeconds()/10;
+	b.Rotate = CurrentTime.GetSeconds()*6;
+	Sleep(200);
+}

@@ -1,0 +1,27 @@
+; $EDITOR_PROJECT_ROOT_DIR$ ..\..\..\..\
+
+SPRITE
+{
+  LOOPING = TRUE
+
+  FRAME{
+    DELAY = 90
+    IMAGE = "actors\idle\dd\00.png"
+    HOTSPOT {100,180}
+    MOVE {0,8}
+  }
+
+  FRAME{
+    DELAY = 90
+    IMAGE = "actors\idle\dd\00.png"
+    HOTSPOT {100,180}
+    MOVE {0,4}
+  }
+
+  FRAME{
+    DELAY = 90
+    IMAGE = "actors\idle\dd\00.png"
+    HOTSPOT {100,180}
+    MOVE {0,8}
+  }
+}

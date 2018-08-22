@@ -1,0 +1,59 @@
+#include "scripts\base.inc"
+
+global dist = 2;
+global prevX = 0;
+global prevSceneName = "";
+
+while(1) {
+	if(Math.Abs(this.X - prevX) >= dist || Scene.Name != prevSceneName) {
+		prevX = this.X;
+		prevSceneName = Scene.Name;
+		if(this.X < 236) {
+			this.AlphaColor = MakeRGBA(198, 189, 211, 255);
+		} else if(this.X < 288) {
+			this.AlphaColor = MakeRGBA(220, 199, 230, 255);
+		} else if(this.X < 304) {
+			this.AlphaColor = MakeRGBA(238, 210, 220, 255);
+		} else if(this.X < 312) {
+			this.AlphaColor = MakeRGBA(255, 221, 211, 255);
+		} else if(this.X < 324) {
+			this.AlphaColor = MakeRGBA(255, 237, 212, 255);
+		} else if(this.X < 336) {
+			this.AlphaColor = MakeRGBA(255, 249, 221, 255);
+		} else if(this.X < 368) {
+			this.AlphaColor = MakeRGBA(255, 254, 248, 255);
+		} else if(this.X < 372) {
+			this.AlphaColor = MakeRGBA(255, 248, 213, 255);
+		} else if(this.X < 376) {
+			this.AlphaColor = MakeRGBA(255, 244, 212, 255);
+		} else if(this.X < 380) {
+			this.AlphaColor = MakeRGBA(255, 234, 212, 255);
+		} else if(this.X < 388) {
+			this.AlphaColor = MakeRGBA(255, 221, 211, 255);
+		} else if(this.X < 400) {
+			this.AlphaColor = MakeRGBA(238, 210, 220, 255);
+		} else if(this.X < 440) {
+			this.AlphaColor = MakeRGBA(220, 199, 230, 255);
+		} else if(this.X < 448) {
+			this.AlphaColor = MakeRGBA(238, 210, 220, 255);
+		} else if(this.X < 500) {
+			this.AlphaColor = MakeRGBA(255, 221, 211, 255);
+		} else if(this.X < 512) {
+			this.AlphaColor = MakeRGBA(233, 207, 222, 255);
+		} else if(this.X < 568) {
+			this.AlphaColor = MakeRGBA(220, 199, 230, 255);
+		} else if(this.X < 580) {
+			this.AlphaColor = MakeRGBA(238, 210, 220, 255);
+		} else if(this.X < 608) {
+			this.AlphaColor = MakeRGBA(238, 210, 220, 255);
+		} else if(this.X < 620) {
+			this.AlphaColor = MakeRGBA(255, 248, 213, 255);
+		} else {
+			this.AlphaColor = MakeRGBA(255, 254, 248, 255);
+		}
+	}
+	Sleep(16);
+}
+function SaveState() {
+	return null;
+}
