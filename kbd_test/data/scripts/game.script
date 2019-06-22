@@ -118,7 +118,15 @@ on "Keypress"
 	text = text + "IsShift is "   + Keyboard.IsShift   + ", ";
 	text = text + "IsAlt  is "    + Keyboard.IsAlt     + ", ";
 	text = text + "IsControl is " + Keyboard.IsControl + ", ";
-	text = text + "Key is '"      + Keyboard.Key   + "'";
+	text = text + "Key is '"      + Keyboard.Key   + "', ";
+	text = text + "IsKeyDown('A') is " + Keyboard.IsKeyDown("A") + ", ";
+	text = text + "IsKeyDown('a') is " + Keyboard.IsKeyDown("a") + ", ";
+	text = text + "IsKeyDown(65) is " + Keyboard.IsKeyDown(65) + ", ";
+	text = text + "IsKeyDown(97) is " + Keyboard.IsKeyDown(97) + ", ";
+	text = text + "IsKeyDown('Q') is " + Keyboard.IsKeyDown("Q") + ", ";
+	text = text + "IsKeyDown('q') is " + Keyboard.IsKeyDown("q") + ", ";
+	text = text + "IsKeyDown(81) is " + Keyboard.IsKeyDown(81) + ", ";
+	text = text + "IsKeyDown(113) is " + Keyboard.IsKeyDown(113);
     actor.Talk(text);
   }
 
