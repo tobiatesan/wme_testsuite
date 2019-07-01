@@ -1,0 +1,106 @@
+WINDOW
+{
+  WIDTH = 280
+  HEIGHT = 240
+  NAME = "mainmenu"
+
+  TITLE = "Main menu"
+  TITLE_RECT { 5,5,255,25 }  
+  TITLE_ALIGN = left
+  DRAG_RECT { 0,0,255,25 }
+  BACK = "ui_elements\win.image"
+  BACK_INACTIVE = "ui_elements\win_inactive.image"
+  FONT = "fonts\outline_white.font"
+  SCRIPT = "interface\system\mainmenu.script"
+
+;----- close button -----
+  BUTTON
+  {
+    TEMPLATE = "ui_elements\template\but_cls.button"
+    X = 246
+    Y = 5
+  }
+
+;----- menu buttons -----
+  BUTTON
+  {
+    TEMPLATE = "ui_elements\template\but.button"
+    NAME = "close"
+    TEXT = "Resume game"
+    X = 10
+    Y = 35
+    WIDTH = 250
+    HEIGHT = 40
+  }
+
+  WINDOW
+  {
+    NAME="speech_box"
+    CAPTION=""
+    
+    FONT="fonts\outline_white.font"
+    
+    TITLE="Drag slider below left & right"
+    TITLE_ALIGN="center"
+    TITLE_RECT { 5, 5, 250, 25 }
+    
+    X=5
+    Y=100
+    WIDTH=440
+    HEIGHT=56
+    DISABLED=FALSE
+    VISIBLE=TRUE
+    PARENT_NOTIFY=TRUE
+    TRANSPARENT=FALSE
+    PAUSE_MUSIC=TRUE
+    MENU=FALSE
+    IN_GAME=FALSE
+    CLIP_CONTENTS=FALSE
+    
+    ALPHA_COLOR { 0, 0, 0 }
+    ALPHA=0
+
+    BUTTON
+    {
+      NAME="speech_slider"
+      CAPTION=""
+      
+      TEMPLATE = "ui_elements\template\but.button"
+      
+      TEXT=""
+      TEXT_ALIGN="center"
+      
+      X=42
+      Y=30
+      WIDTH=32
+      HEIGHT=44
+      DISABLED=FALSE
+      VISIBLE=TRUE
+      PARENT_NOTIFY=TRUE
+      FOCUSABLE=FALSE
+      CENTER_IMAGE=FALSE
+      PRESSED=FALSE
+      PIXEL_PERFECT=FALSE
+      
+      SCRIPT="interface\system\speechvolume.script"
+      
+      EDITOR_PROPERTY
+      {
+        NAME="Selected"
+        VALUE="False"
+      }
+
+    }
+  }  
+
+  BUTTON
+  {
+    TEMPLATE = "ui_elements\template\but.button"
+    NAME = "quit"
+    TEXT = "Quit game"
+    X = 10
+    Y = 185
+    WIDTH = 250
+    HEIGHT = 40
+  }
+}

@@ -1,0 +1,26 @@
+WINDOW
+{
+  X = 200
+  Y = 200
+  WIDTH = 264
+  HEIGHT = 265
+  NAME = "quit"
+  TITLE = "Quit?"
+  TITLE_RECT {25,65,270,100}  
+  TITLE_ALIGN = left
+  DRAG_RECT {0,0,230,50}
+  IMAGE = "ui_elements\quitbg\bg.png"
+  FONT = "fonts\fontmenuhover.font"
+  SCRIPT = "interface\system\q.script"
+
+  BUTTON
+  {
+    TEMPLATE = "ui_elements\template\but.button"
+    NAME = "yes"
+    TEXT = "Yes"
+    X = 40
+    Y = 125
+    WIDTH = 70
+    HEIGHT = 30
+  }
+}

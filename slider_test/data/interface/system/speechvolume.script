@@ -1,0 +1,44 @@
+#include "scripts\base.inc"
+
+global mouseLocked;
+mouseLocked = 0;
+
+var parent = this.Parent;
+
+on "LeftClick" {
+	mouseLocked = 1;
+
+	var tX = this.X;
+	var X = Game.MouseX;
+	var Y = Game.MouseY;
+
+	while(mouseLocked) {
+		Game.MouseY = Y;
+		this.X = tX - X + Game.MouseX;
+
+		if (this.X < 0) {
+			Game.MouseX = Game.MouseX - this.X + 0;
+			this.X = 0;
+		}
+		if (this.X > 200) {
+			Game.MouseX = Game.MouseX - this.X + 200;
+			this.X = 200;
+		}
+
+		parent.Text = this.X/2;
+
+		Game.SetGlobalSpeechVolume(this.X/2);
+		Game.SetGlobalSFXVolume(this.X/2);
+		if(!(Game.IsSoundPlaying("sound\sound13.wav"))) {
+			Game.PlaySound("sound\sound13.wav");
+		}
+		
+		Sleep(5);
+	}
+}
+
+on "LeftRelease" {
+	Game.SetGlobalSFXVolume(this.X/2);
+	Game.StopSound("sound\sound13.wav");
+	mouseLocked = 0;
+}
