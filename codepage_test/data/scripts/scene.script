@@ -1,0 +1,29 @@
+#include "scripts\base.inc"
+
+////////////////////////////////////////////////////////////////////////////////
+on "LeftClick"
+{ 
+  Game.StartDlgBranch("dlg");
+  Game.AddResponse(0,  "00 - ANSI");
+  Game.AddResponse(1,  "01 - System Default");
+  Game.AddResponse(2,  "02 - OEM");
+  Game.AddResponse(3,  "03 - Baltic");
+  Game.AddResponse(4,  "04 - Chinese BIG5");
+  Game.AddResponse(5,  "05 - Eastern Europe");
+  Game.AddResponse(6,  "06 - GB2312");
+  Game.AddResponse(7,  "07 - Greek");
+  Game.AddResponse(8,  "08 - Hangul");
+  Game.AddResponse(9,  "09 - Mac");
+  Game.AddResponse(10, "10 - Cyrillic CP1251");
+  Game.AddResponse(11, "11 - Shift-JIS");
+  Game.AddResponse(12, "12 - Symbol");
+  Game.AddResponse(13, "13 - Turkish");
+  Game.AddResponse(14, "14 - Vietnamese");
+  Game.AddResponse(15, "15 - Johab");
+  Game.AddResponse(16, "16 - Arabic");
+  Game.AddResponse(17, "17 - Hebrew");
+  Game.AddResponse(18, "18 - Thai");
+  actor.SetFont("fonts/arial" + Game.GetResponse() + ".font");
+  actor.Talk("/TEST/");
+  Game.EndDlgBranch();
+}
