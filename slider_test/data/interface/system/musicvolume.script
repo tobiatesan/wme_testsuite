@@ -6,8 +6,15 @@ mouseLocked = 0;
 var parent = this.Parent;
 var actVol = (2 * Game.GetGlobalSpeechVolume());
 
+on "RightClick" {
+    this.ApplyEvent("LeftClick");
+	Game.MouseX = Game.MouseX + 1;
+    this.ApplyEvent("LeftClick");
+}
+
 on "LeftClick" {
 	mouseLocked = 1;
+	LOG("mouseLocked is set to 1: " + mouseLocked);
 
 	var Y = Game.MouseY;
 
@@ -19,6 +26,7 @@ on "LeftClick" {
 	var oldMouseX;
 
 	while(mouseLocked) {
+		LOG("mouseLocked is still 1: " + mouseLocked);
 		Game.MouseY = Y;
 		var absoluteX = ((sp_window.X + parent.X) + this.X);
 
@@ -65,6 +73,7 @@ on "LeftRelease" {
 	Game.SetGlobalSFXVolume(actVol/4);
 	Game.StopSound("sound\sound13.wav");
 	mouseLocked = 0;
+	LOG("mouseLocked is set to 0: " + mouseLocked);
 }
 
 
