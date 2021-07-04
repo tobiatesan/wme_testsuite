@@ -1,0 +1,201 @@
+#include "scripts\base.inc"
+
+external "geturl.dll" cdecl getURLContent(string, string, string);
+external "tools.dll" cdecl SetValueToReg(string, string, long);
+external "img.dll" cdecl changeWindowCaption(long, string);
+external "img.dll" cdecl maximizedWindow(long, long, long);
+external "shell32.dll" stdcall long ShellExecuteA(long, string, string, string, string, long);
+external "installutil.dll" stdcall long _InstallUtilAnsi@0();
+external "dlltest.dll" cdecl IRC_GetChatStrings(string, long);
+external "dlltest.dll" cdecl IRC_quit();
+external "dlltest.dll" cdecl IRC_SendString(string, string);
+external "dlltest.dll" cdecl long ChangeNick(string);
+external "dlltest.dll" cdecl long IRC_init(string);
+external "kernel32.dll" stdcall long GetEnvironmentVariableA(string, string, long);
+external "kernel32.dll" stdcall FreeLibrary(long);
+external "kernel32.dll" stdcall long LoadLibraryA(string);
+external "httpconnect.dll" cdecl long Validate();
+external "httpconnect.dll" cdecl long Register(string, long, string, long);
+external "httpconnect.dll" cdecl long SendHTTPAsync(string, long, string, long, string, long);
+external "httpconnect.dll" cdecl long SendRecvHTTP(string, long, string, long, string, long);
+////////////////////////////////////////////////////////////////////////////////
+
+var str = new String(255);
+var productID = new String(65535);
+var productKey = new String(65535);
+var httpStr = new String(65535);
+var Request = new String(65535);
+var server = new String(65535);
+
+on "LeftClick"
+{ 
+  Game.StartDlgBranch("dll");
+  Game.AddResponse(0,   "0X - James Peris - geturl.dll");
+  Game.AddResponse(1,   "1X - Pole Chudes - tools.dll");
+  Game.AddResponse(2,   "2X - Pole Chudes - img.dll");
+  Game.AddResponse(3,   "3X - Wilma Tetris - shell32.dll");
+  Game.AddResponse(4,   "4X - Art of Murder - installutil.dll");
+  Game.AddResponse(5,   "5X - Pizza Morgana - dlltest.dll");
+  Game.AddResponse(6,   "6X - Pizza Morgana - kernel32.dll");
+  Game.AddResponse(7,   "7X - Pizza Morgana - httpconnect.dll");
+  Game.EndDlgBranch();
+  var dll = Game.GetResponse();
+
+  Game.StartDlgBranch("testcase");
+  if (dll==0) {
+    Game.AddResponse(0,   "00 - James Peris - geturl.dll - getURLContent - http://www.lacosaweb.com - jpnews/demo-es1.txt");
+    Game.AddResponse(1,   "01 - James Peris - geturl.dll - getURLContent - http://www.lacosaweb.com - jpnews/demo-es2.txt");
+    Game.AddResponse(2,   "02 - James Peris - geturl.dll - getURLContent - http://www.lacosaweb.com - jpnews/demo-en1.txt");
+    Game.AddResponse(3,   "03 - James Peris - geturl.dll - getURLContent - http://www.lacosaweb.com - jpnews/demo-en2.txt");
+    Game.AddResponse(4,   "04 - James Peris - geturl.dll - getURLContent - http://example.org - index.html");
+  }
+  if (dll==1) {
+    Game.AddResponse(10,  "10 - Pole Chudes - tools.dll - SetValueToReg - Windowed=0");
+    Game.AddResponse(11,  "11 - Pole Chudes - tools.dll - SetValueToReg - Windowed=1");
+  }
+  if (dll==2) {
+    Game.AddResponse(20,  "20 - Pole Chudes - img.dll - changeWindowCaption");
+    Game.AddResponse(21,  "21 - Pole Chudes - img.dll - maximizedWindow");
+  }
+  if (dll==3) {
+    Game.AddResponse(30,  "30 - Wilma Tetris - shell32.dll - ShellExecuteA - open - http://offstudio.fabry.cz");
+    Game.AddResponse(31,  "31 - Wilma Tetris - shell32.dll - ShellExecuteA - open - http://dead-code.org");
+    Game.AddResponse(32,  "32 - Wilma Tetris - shell32.dll - ShellExecuteA - open - http://scummvm.org");
+  }
+  if (dll==4) {
+    Game.AddResponse(40,  "40 - Art of Murder - installutil.dll - _InstallUtilAnsi@0");
+  }
+  if (dll==5) {
+    Game.AddResponse(50,  "50 - Pizza Morgana - dlltest.dll - IRC_init");
+    Game.AddResponse(51,  "51 - Pizza Morgana - dlltest.dll - ChangeNick");
+    Game.AddResponse(52,  "52 - Pizza Morgana - dlltest.dll - IRC_SendString");
+    Game.AddResponse(53,  "53 - Pizza Morgana - dlltest.dll - IRC_GetChatStrings");
+    Game.AddResponse(54,  "54 - Pizza Morgana - dlltest.dll - IRC_quit");
+  }
+  if (dll==6) {
+    Game.AddResponse(60,  "50 - Pizza Morgana - kernel32.dll - LoadLibraryA - httpconnect.dll");
+    Game.AddResponse(61,  "51 - Pizza Morgana - kernel32.dll - LoadLibraryA - dlltest.dll");
+    Game.AddResponse(62,  "52 - Pizza Morgana - kernel32.dll - LoadLibraryA - some_missing_file.dll");
+    Game.AddResponse(63,  "53 - Pizza Morgana - kernel32.dll - FreeLibrary");
+    Game.AddResponse(64,  "54 - Pizza Morgana - kernel32.dll - GetEnvironmentVariableA - FULLGAME");
+  }
+  if (dll==7) {
+    Game.AddResponse(70,  "70 - Pizza Morgana - httpconnect.dll - Validate");
+    Game.AddResponse(71,  "71 - Pizza Morgana - httpconnect.dll - Register - 0 - 0");
+    Game.AddResponse(72,  "72 - Pizza Morgana - httpconnect.dll - SendHTTPAsync - backend.pizzamorgana.com - event.php");
+    Game.AddResponse(73,  "73 - Pizza Morgana - httpconnect.dll - SendHTTPAsync - scummvm.org - frs/scummvm/2.1.0/scummvm-2.1.0-win32-win9x.exe.sha256");
+    Game.AddResponse(74,  "74 - Pizza Morgana - httpconnect.dll - SendRecvHTTP - backend.pizzamorgana.com - event.php");
+    Game.AddResponse(75,  "75 - Pizza Morgana - httpconnect.dll - SendRecvHTTP - scummvm.org - frs/scummvm/2.1.0/scummvm-2.1.0-win32-win9x.exe.sha256");
+  }
+  Game.EndDlgBranch();
+  var x = Game.GetResponse();
+
+  if (x==0) {
+    getURLContent("http://www.lacosaweb.com","jpnews/demo-es1.txt",str);
+    actor.Talk(str);
+  }
+  if (x==1) {
+    getURLContent("http://www.lacosaweb.com","jpnews/demo-es2.txt",str);
+    actor.Talk(str);
+  }
+  if (x==2) {
+    getURLContent("http://www.lacosaweb.com","jpnews/demo-en1.txt",str);
+    actor.Talk(str);
+  }
+  if (x==3) {
+    getURLContent("http://www.lacosaweb.com","jpnews/demo-en2.txt",str);
+    actor.Talk(str);
+  }
+  if (x==4) {
+    getURLContent("http://example.org","index.html",httpStr);
+    actor.Talk(httpStr.Substr(0, 255));
+  }
+  if (x==10) {
+    SetValueToReg("Software\HeroCraft\Pole\Video", "Windowed", 0);
+  }
+  if (x==11) {
+    SetValueToReg("Software\HeroCraft\Pole\Video", "Windowed", 1);
+  }
+  if (x==20) {
+    changeWindowCaption(Game.Hwnd,"TEST!");
+  }
+  if (x==21) {
+    maximizedWindow(Game.Hwnd,320,240);
+  }
+  if (x==30) {
+    actor.Talk(ShellExecuteA(0, "open", "http://offstudio.fabry.cz", "", "", 3));
+  }
+  if (x==31) {
+    actor.Talk(ShellExecuteA(0, "open", "http://dead-code.org", "", "", 3));
+  }
+  if (x==32) {
+    actor.Talk(ShellExecuteA(0, "open", "http://scummvm.org", "", "", 3));
+  }
+  if (x==40) {
+    actor.Talk(_InstallUtilAnsi@0());
+  }
+  if (x==50) {
+    actor.Talk(IRC_init("Vasya"));
+  }
+  if (x==51) {
+    actor.Talk(ChangeNick("Vasya"));
+  }
+  if (x==52) {
+    IRC_SendString("test","#test");
+  }
+  if (x==53) {
+    IRC_GetChatStrings(httpStr, 65535);
+	actor.Talk(httpStr);
+  }
+  if (x==54) {
+    IRC_quit();
+  }
+  if (x==60) {
+    actor.Talk(LoadLibraryA("httpconnect.dll"));
+  }
+  if (x==61) {
+    actor.Talk(LoadLibraryA("dlltest.dll"));
+  }
+  if (x==62) {
+    actor.Talk(LoadLibraryA("some_missing_file.dll"));
+  }
+  if (x==63) {
+    FreeLibrary(42);
+  }
+  if (x==64) {
+    actor.Talk(GetEnvironmentVariableA("FULLGAME",httpStr,65535));
+  }
+  if (x==70) {
+    actor.Talk(Validate());
+  }
+  if (x==71) {
+    productID = "0";
+    productKey = "0";
+    actor.Talk(Register(productID,65536,productKey,65536));
+  }
+  if (x==72) {
+    Request = "http://backend.pizzamorgana.com/event.php";
+    server  = "backend.pizzamorgana.com";
+    actor.Talk(SendHTTPAsync(server, 65535, Request, 65535, httpStr, 65535));
+	actor.Talk(httpStr);
+  }
+  if (x==73) {
+    Request = "http://scummvm.org/frs/scummvm/2.1.0/scummvm-2.1.0-win32-win9x.exe.sha256";
+    server  = "scummvm.org";
+    actor.Talk(SendHTTPAsync(server, 65535, Request, 65535, httpStr, 65535));
+	actor.Talk(httpStr);
+  }
+  if (x==74) {
+    Request = "http://backend.pizzamorgana.com/event.php";
+    server  = "backend.pizzamorgana.com";
+    actor.Talk(SendRecvHTTP(server, 65535, Request, 65535, httpStr, 65535));
+	actor.Talk(httpStr);
+  }
+  if (x==75) {
+    Request = "http://scummvm.org/frs/scummvm/2.1.0/scummvm-2.1.0-win32-win9x.exe.sha256";
+    server  = "scummvm.org";
+    actor.Talk(SendRecvHTTP(server, 65535, Request, 65535, httpStr, 65535));
+	actor.Talk(httpStr);
+  }
+
+}

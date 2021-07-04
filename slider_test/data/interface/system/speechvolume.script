@@ -20,15 +20,15 @@ on "LeftClick" {
 			Game.MouseX = Game.MouseX - this.X + 0;
 			this.X = 0;
 		}
-		if (this.X > 200) {
-			Game.MouseX = Game.MouseX - this.X + 200;
-			this.X = 200;
+		if (this.X > 400) {
+			Game.MouseX = Game.MouseX - this.X + 400;
+			this.X = 400;
 		}
 
-		parent.Text = this.X/2;
+		parent.Text = this.X/4;
 
-		Game.SetGlobalSpeechVolume(this.X/2);
-		Game.SetGlobalSFXVolume(this.X/2);
+		Game.SetGlobalSpeechVolume(this.X/4);
+		Game.SetGlobalSFXVolume(this.X/4);
 		if(!(Game.IsSoundPlaying("sound\sound13.wav"))) {
 			Game.PlaySound("sound\sound13.wav");
 		}
@@ -38,7 +38,7 @@ on "LeftClick" {
 }
 
 on "LeftRelease" {
-	Game.SetGlobalSFXVolume(this.X/2);
+	Game.SetGlobalSFXVolume(this.X/4);
 	Game.StopSound("sound\sound13.wav");
 	mouseLocked = 0;
 }

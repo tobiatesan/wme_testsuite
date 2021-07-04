@@ -1,0 +1,79 @@
+#include "scripts\base.inc"
+
+global mouseLocked;
+mouseLocked = 0;
+
+var parent = this.Parent;
+var actVol = (2 * Game.GetGlobalSpeechVolume());
+
+on "RightClick" {
+    this.ApplyEvent("LeftClick");
+	Game.MouseX = Game.MouseX + 1;
+    this.ApplyEvent("LeftClick");
+}
+
+on "LeftClick" {
+	mouseLocked = 1;
+	LOG("mouseLocked is set to 1: " + mouseLocked);
+
+	var Y = Game.MouseY;
+
+	var sp_window = parent.Parent;
+	Game.MouseX = (((sp_window.X + parent.X) + this.X) + (this.Width / 2));
+	
+	var sp_meters;
+	var mouseX = Game.MouseX;
+	var oldMouseX;
+
+	while(mouseLocked) {
+		LOG("mouseLocked is still 1: " + mouseLocked);
+		Game.MouseY = Y;
+		var absoluteX = ((sp_window.X + parent.X) + this.X);
+
+		if(((actVol <= 400) && (actVol >= 0))) {
+			oldMouseX = mouseX;
+			mouseX = Game.MouseX;
+			this.X = (this.X + (mouseX - oldMouseX));
+			actVol = (actVol + (mouseX - oldMouseX));
+		}
+		
+		if((actVol > 400)) {
+			this.X = 400;
+			Game.MouseX = oldMouseX;
+			mouseX = Game.MouseX;
+			actVol = 400;
+		}
+		if((actVol < 0)) {
+			this.X = 0;
+			Game.MouseX = oldMouseX;
+			mouseX = Game.MouseX;
+			actVol = 0;
+		}
+
+		LOG(Game.MouseX + " vs " + (absoluteX + (this.Width / 2)) + " window " + sp_window.X + " parent " + parent.X + " this " + this.X + " width " + (this.Width / 2));
+
+		if((Game.MouseX != (absoluteX + (this.Width / 2)))) {
+			Game.MouseX = (absoluteX + (this.Width / 2));
+			mouseX = Game.MouseX;
+		}
+
+		parent.Text = actVol/4;
+
+		Game.SetGlobalSpeechVolume(actVol/4);
+		Game.SetGlobalSFXVolume(actVol/4);
+		if(!(Game.IsSoundPlaying("sound\sound13.wav"))) {
+			Game.PlaySound("sound\sound13.wav");
+		}
+		
+		Sleep(5);
+	}
+}
+
+on "LeftRelease" {
+	Game.SetGlobalSFXVolume(actVol/4);
+	Game.StopSound("sound\sound13.wav");
+	mouseLocked = 0;
+	LOG("mouseLocked is set to 0: " + mouseLocked);
+}
+
+

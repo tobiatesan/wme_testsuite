@@ -1,0 +1,8 @@
+James Peris - geturl.dll
+Pole Chudes - tools.dll
+Pole Chudes - img.dll
+Wilma Tetris - shell32.dll
+Art of Murder - installutil.dll
+Pizza Morgana - dlltest.dll
+Pizza Morgana - kernel32.dll
+Pizza Morgana - httpconnect.dll
